@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -180.000, 
+              -90.000
+            ], 
+            [
+              -180.000, 
+              90.000
+            ], 
+            [
+              180.000, 
+              90.000
+            ], 
+            [
+              180.000, 
+              -90.000
+            ], 
+            [
+              -180.000, 
+              -90.000
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "World"
+        ], 
+        "alias_SWE_V": [
+          "V\u00e4rld"
+        ], 
+        "alias_SWE_Q": [
+          "Jorden"
+        ], 
+        "alias_SWE_S": [
+          "Varld"
+        ], 
+        "ne_latitude": 90.000, 
+        "placetype": "Supername", 
+        "alias_POR_V": [
+          "Mundo"
+        ], 
+        "alias_POR_Q": [
+          "Terra"
+        ], 
+        "alias_CHI_Q": [
+          "\u5730\u7403"
+        ], 
+        "alias_ITA_Q": [
+          "Terra"
+        ], 
+        "alias_ITA_V": [
+          "Mondo"
+        ], 
+        "alias_CHI_V": [
+          "\u4e16\u754c"
+        ], 
+        "woeid": 1, 
+        "alias_JPN_Q": [
+          "\u5730\u7403"
+        ], 
+        "alias_POL_Q": [
+          "Ziemia"
+        ], 
+        "alias_JPN_V": [
+          "\u4e16\u754c"
+        ], 
+        "alias_SPA_Q": [
+          "Tierra"
+        ], 
+        "sw_longitude": -180.000, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 0.000, 
+        "date_indexed": "2010-12-02T16:31:49Z", 
+        "alias_SPA_V": [
+          "Mundo"
+        ], 
+        "alias_DUT_Q": [
+          "Aarde"
+        ], 
+        "alias_DUT_V": [
+          "Wereld"
+        ], 
+        "alias_GER_V": [
+          "Welt"
+        ], 
+        "alias_GER_Q": [
+          "Erde"
+        ], 
+        "lang": "ENG", 
+        "name": "Earth", 
+        "alias_UNK_S": [
+          "Dunya"
+        ], 
+        "parent_woeid": 0, 
+        "alias_UNK_Q": [
+          "D\u00fcnya"
+        ], 
+        "ne_longitude": 180.000, 
+        "longitude": 0.000, 
+        "iso": "ZZ", 
+        "sw_latitude": -90.000, 
+        "alias_FRE_V": [
+          "Monde"
+        ], 
+        "fullname": "Earth", 
+        "alias_FRE_Q": [
+          "Terre"
+        ]
+      }, 
+      "id": 1
+    }
+  ]
+}
