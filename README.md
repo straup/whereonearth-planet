@@ -6,7 +6,8 @@ whereonearth-planet
 The short version
 --
 
-Where On Earth (WOE) data for planets smushed up the Open Exoplanet Catalogue of planets.
+Where On Earth (WOE) data for planets smushed up the [Open Exoplanet Catalogue](http://exoplanet.hanno-rein.de/) of
+planetary bodies.
 
 The longer version
 --
