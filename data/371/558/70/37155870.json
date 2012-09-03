@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 37155870, 
+      "properties": {
+        "oep-star:magV": "9.94", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HIP 13044 b", 
+        "oep-star:rightascension": "02 47 37", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-36 06 27", 
+        "oep-star:spectraltype": "F2", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "10/11/19", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2010", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "6.7", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 37155870, 
+        "woe:id": 37155870, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "701", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "1.25", 
+        "oep:id": "HIP 13044 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "16.2", 
+        "oep-orbit:eccentricity": "0.25", 
+        "oep-star:mass": "0.8", 
+        "oep-orbit:semimajoraxis": "0.116", 
+        "artisanal:foundry": "http://www.londonintegers.com/", 
+        "oep-star:angulardistance": "0.000165", 
+        "oep-star:metallicity": "-2.09", 
+        "oep:name": "HIP 13044 b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35309773, 
+      "properties": {
+        "oep-star:magV": "6.17", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "Gl 86 b", 
+        "oep-star:rightascension": "02 10 14", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-50 50 00", 
+        "oep-star:spectraltype": "K1V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "09/10/07", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2000", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "0.855", 
+        "oep:description": "The star Gliese 86 is a K-type dwarf star and a member of a binary system in the constellation Eridanus. A linear trend in the radial velocity data may be associated with the stellar companion or another planetary companion.", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35309773, 
+        "woe:id": 35309773, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "10.9", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "4.01", 
+        "oep:id": "Gliese 86 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "15.766", 
+        "oep-orbit:eccentricity": "0.046", 
+        "oep-star:mass": "0.8", 
+        "oep-orbit:semimajoraxis": "0.11", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.010092", 
+        "oep-star:metallicity": "-0.24", 
+        "oep:name": [
+          "Gliese 86 b", 
+          "GJ 86 b", 
+          "Gj 86 b", 
+          "Gl 86 b"
+        ]
+      }
+    }
+  ]
+}

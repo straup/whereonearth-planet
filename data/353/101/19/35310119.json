@@ -1,0 +1,53 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35310119, 
+      "properties": {
+        "oep-star:magV": "9.98", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HAT-P-14 b", 
+        "oep-star:rightascension": "17 20 28", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+38 14 32", 
+        "oep-star:spectraltype": "F", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/04/08", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2010", 
+        "oep-orbit:inclination": "83.2", 
+        "oep-star:radius": "1.468", 
+        "oep:description": "The bright F-star HAT-P-14 is located in the constellation Hercules. It is more than twice as massive as our Sun.", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35310119, 
+        "woe:id": 35310119, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "205", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "2.2", 
+        "oep:id": "HAT-P-14 b", 
+        "oep:radius": "1.2", 
+        "oep-orbit:period": "4.627657", 
+        "oep-orbit:eccentricity": "0.095", 
+        "oep-star:mass": "1.386", 
+        "oep-orbit:semimajoraxis": "0.0594", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.00029", 
+        "oep-star:metallicity": "0.11", 
+        "oep:name": [
+          "HAT-P-14 b", 
+          "2MASS J17202788+3814317 b", 
+          "TYC 3086-00152-1 b"
+        ]
+      }
+    }
+  ]
+}

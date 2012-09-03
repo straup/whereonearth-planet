@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34819048, 
+      "properties": {
+        "oep-star:magV": "15", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "KOI-730 b", 
+        "oep-star:rightascension": "19 53 16", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+47 16 46", 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "11/09/07", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2011", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "1.1", 
+        "oep:description": "The planetary system KOI-730 has been discovered by Kepler. The planet masses have not been confirmed. However, a dynamical study by Fabrycky et al suggests that this system is real.", 
+        "oep:multiplicity": "4", 
+        "artisanal:id": 34819048, 
+        "woe:id": 34819048, 
+        "oep-star:magH": null, 
+        "oep-star:distance": null, 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": null, 
+        "oep:id": "KOI-730 b", 
+        "oep:radius": "0.31", 
+        "oep-orbit:period": "14.7903", 
+        "oep-orbit:eccentricity": null, 
+        "oep-star:mass": "1.07", 
+        "oep-orbit:semimajoraxis": "0.12", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": null, 
+        "oep:name": "KOI-730 b"
+      }
+    }
+  ]
+}

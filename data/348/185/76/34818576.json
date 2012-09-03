@@ -1,0 +1,54 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818576, 
+      "properties": {
+        "oep-star:magV": "10.17", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "Gliese 876 b", 
+        "oep-star:rightascension": "22 53 13", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-14 15 13", 
+        "oep-star:spectraltype": "M4 V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "11/05/11", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2000", 
+        "oep-orbit:inclination": "84", 
+        "oep-star:radius": "0.36", 
+        "oep:description": "Gliese 876 is a red dwarf only 15 light years from Earth in the constellation Aquarius. The orbits of the outer three planets are locked in a Laplace reasonance. This resonance is also present in the moons of Jupiter: Io, Europa, Ganymede. This strong dynamical interaction leads to interesting conclusions about the formation history of the system. It is a very strong indication that the planets migrated in the protoplanetary disk to their current position and got locked into mean motion resonances during that process.", 
+        "oep:multiplicity": "4", 
+        "artisanal:id": 34818576, 
+        "woe:id": 34818576, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "4.7", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "2.2756", 
+        "oep:id": "Gliese 876 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "61.1166", 
+        "oep-orbit:eccentricity": "0.0324", 
+        "oep-star:mass": "0.334", 
+        "oep-orbit:semimajoraxis": "0.208317", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.044323", 
+        "oep-star:metallicity": "0.05", 
+        "oep:name": [
+          "Gliese 876 b", 
+          "GJ 876 b", 
+          "Gj 876 b", 
+          "Gl 876 b"
+        ]
+      }
+    }
+  ]
+}

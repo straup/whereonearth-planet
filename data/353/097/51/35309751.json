@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35309751, 
+      "properties": {
+        "oep-star:magV": "3.73", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "eps Eridani b", 
+        "oep-star:rightascension": "03 32 55", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-09 27 29", 
+        "oep-star:spectraltype": "K2 V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "10/10/19", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2000", 
+        "oep-orbit:inclination": "30.1", 
+        "oep-star:radius": "0.895", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35309751, 
+        "woe:id": 35309751, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "3.2", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "1.55", 
+        "oep:id": "eps Eridani b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "2502", 
+        "oep-orbit:eccentricity": "0.702", 
+        "oep-star:mass": "0.83", 
+        "oep-orbit:semimajoraxis": "3.39", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "1.059375", 
+        "oep-star:metallicity": "-0.13", 
+        "oep:name": "eps Eridani b"
+      }
+    }
+  ]
+}

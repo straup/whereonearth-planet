@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818646, 
+      "properties": {
+        "oep-star:magV": "8.45", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HD 132406 b", 
+        "oep-star:rightascension": "14 56 55", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+53 22 56", 
+        "oep-star:spectraltype": "G0V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "07/10/31", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2007", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": null, 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34818646, 
+        "woe:id": 34818646, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "71", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "5.61", 
+        "oep:id": "HD 132406 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "974", 
+        "oep-orbit:eccentricity": "0.34", 
+        "oep-star:mass": "1.09", 
+        "oep-orbit:semimajoraxis": "1.98", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.027887", 
+        "oep-star:metallicity": "0.18", 
+        "oep:name": "HD 132406 b"
+      }
+    }
+  ]
+}

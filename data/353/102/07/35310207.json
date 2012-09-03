@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35310207, 
+      "properties": {
+        "oep-star:magV": "6.54", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HD 82943 c", 
+        "oep-star:rightascension": "09 34 50", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-12 07 46", 
+        "oep-star:spectraltype": "G0", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "10/12/23", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2003", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "1.12", 
+        "oep:description": null, 
+        "oep:multiplicity": "2", 
+        "artisanal:id": 35310207, 
+        "woe:id": 35310207, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "27.46", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "2.01", 
+        "oep:id": "HD 82943 c", 
+        "oep:radius": null, 
+        "oep-orbit:period": "219", 
+        "oep-orbit:eccentricity": "0.359", 
+        "oep-star:mass": "1.18", 
+        "oep-orbit:semimajoraxis": "0.746", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.027167", 
+        "oep-star:metallicity": "0.32", 
+        "oep:name": "HD 82943 c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35309767, 
+      "properties": {
+        "oep-star:magV": "10.55", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "Gl 581 e", 
+        "oep-star:rightascension": "15 19 26", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-07 43 20", 
+        "oep-star:spectraltype": "M2.5V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "11/09/13", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2009", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "0.3", 
+        "oep:description": "Gliese 581 is a red dwarf in the constellation Libra. It is the 89th closest star to the Solar System. In late 2010, US astronomers annoucent a planet in the habitable zone. This statement has been challenged by the European HARPS team. Gliese 581 c is likely to have a runaway greenhouse effect. A radio message has been sent to Gliese 581 in 2008 and will reach the star system in 2029.", 
+        "oep:multiplicity": "4", 
+        "artisanal:id": 35309767, 
+        "woe:id": 35309767, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "6.21", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "0.0061", 
+        "oep:id": "Gliese 581 e", 
+        "oep:radius": null, 
+        "oep-orbit:period": "3.14945", 
+        "oep-orbit:eccentricity": "0.32", 
+        "oep-star:mass": "0.31", 
+        "oep-orbit:semimajoraxis": "0.028", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.004509", 
+        "oep-star:metallicity": "-0.135", 
+        "oep:name": [
+          "Gliese 581 e", 
+          "GJ 581 e", 
+          "Gj 581 e", 
+          "Gl 581 e"
+        ]
+      }
+    }
+  ]
+}

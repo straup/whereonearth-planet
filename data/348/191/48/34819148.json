@@ -1,0 +1,54 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34819148, 
+      "properties": {
+        "oep-star:magV": "11.3", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "XO-1 b", 
+        "oep-star:rightascension": "16 02 12", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+28 10 11", 
+        "oep-star:spectraltype": "G1V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "10/10/11", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2006", 
+        "oep-orbit:inclination": "89.31", 
+        "oep-star:radius": "0.928", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34819148, 
+        "woe:id": 34819148, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "200", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "0.9", 
+        "oep:id": "XO-1 b", 
+        "oep:radius": "1.184", 
+        "oep-orbit:period": "3.9415128", 
+        "oep-orbit:eccentricity": "0.0", 
+        "oep-star:mass": "1", 
+        "oep-orbit:semimajoraxis": "0.0488", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.000244", 
+        "oep-star:metallicity": null, 
+        "oep:name": [
+          "XO-1 b", 
+          "BD+28 2507 b", 
+          "2MASS J16021184+2810105 b", 
+          "TYC 2041-01657-1 b"
+        ]
+      }
+    }
+  ]
+}

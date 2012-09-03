@@ -1,0 +1,56 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34819086, 
+      "properties": {
+        "oep-star:magV": "11.41", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "TrES-2", 
+        "oep-star:rightascension": "19 07 14", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+49 18 59", 
+        "oep-star:spectraltype": "G0V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/05/22", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2006", 
+        "oep-orbit:inclination": "83.874", 
+        "oep-star:radius": "1", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34819086, 
+        "woe:id": 34819086, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "220", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "1.253", 
+        "oep:id": "TrES-2", 
+        "oep:radius": "1.169", 
+        "oep-orbit:period": "2.470613402", 
+        "oep-orbit:eccentricity": "0.0", 
+        "oep-star:mass": "0.98", 
+        "oep-orbit:semimajoraxis": "0.03556", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.000162", 
+        "oep-star:metallicity": "-0.15", 
+        "oep:name": [
+          "TrES-2", 
+          "TYC 3549-02811-1", 
+          "2MASS J19071403+4918590", 
+          "KIC 11446443", 
+          "Kepler-1", 
+          "KOI-1"
+        ]
+      }
+    }
+  ]
+}

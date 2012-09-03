@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35309965, 
+      "properties": {
+        "oep-star:magV": "6.81", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HD 197037 b", 
+        "oep-star:rightascension": "20 39 33", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+42 14 55", 
+        "oep-star:spectraltype": "F7V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/02/04", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": null, 
+        "oep:description": "This planet was found by looking at 113 radial velocity data points which have been obtained over the last 10 years with a 2.7m telescope. ", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35309965, 
+        "woe:id": 35309965, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "33", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "0.79", 
+        "oep:id": "HD 197037 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "1035.7", 
+        "oep-orbit:eccentricity": "0.22", 
+        "oep-star:mass": "1.11", 
+        "oep-orbit:semimajoraxis": "2.07", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.062727", 
+        "oep-star:metallicity": "-0.2", 
+        "oep:name": "HD 197037 b"
+      }
+    }
+  ]
+}

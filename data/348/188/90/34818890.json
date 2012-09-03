@@ -1,0 +1,57 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818890, 
+      "properties": {
+        "oep-star:magV": "10.5", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HAT-P-7 b", 
+        "oep-star:rightascension": "19 28 59", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+47 58 10", 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/07/05", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2008", 
+        "oep-orbit:inclination": "84.1", 
+        "oep-star:radius": "1.84", 
+        "oep:description": "The star HAT-P-7 is located in the constellation Cygnus and in the field of view of the Kepler spacecraft. Meassurements of the Rossiter-McLaughlin effect suggest that this planet is in a retrograde orbit. Retrograde orbits are difficult to explain with standard disk migration. Planet-planet scattering or the Kozei effect are able to produce retrograde orbits.", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34818890, 
+        "woe:id": 34818890, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "320", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "1.8", 
+        "oep:id": "HAT-P-7 b", 
+        "oep:radius": "1.421", 
+        "oep-orbit:period": "2.2047298", 
+        "oep-orbit:eccentricity": "0.0", 
+        "oep-star:mass": "1.47", 
+        "oep-orbit:semimajoraxis": "0.0379", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.000118", 
+        "oep-star:metallicity": "0.26", 
+        "oep:name": [
+          "HAT-P-7 b", 
+          "2MASS J19285935+4758102 b", 
+          "TYC 3547-01402-1 b", 
+          "BD+47 2846 b", 
+          "KIC 10666592 b", 
+          "Kepler-2 b", 
+          "KOI-2 b"
+        ]
+      }
+    }
+  ]
+}

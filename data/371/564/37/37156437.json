@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 37156437, 
+      "properties": {
+        "oep-star:magV": null, 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "OGLE-TR-132 b", 
+        "oep-star:rightascension": "10 50 34", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-61 57 25", 
+        "oep-star:spectraltype": "F", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": "15.72", 
+        "oep:lastupdate": "10/12/16", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2004", 
+        "oep-orbit:inclination": "83.4", 
+        "oep-star:radius": "1.34", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 37156437, 
+        "woe:id": 37156437, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "1500", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "1.17", 
+        "oep:id": "OGLE-TR-132 b", 
+        "oep:radius": "1.23", 
+        "oep-orbit:period": "1.689868", 
+        "oep-orbit:eccentricity": "0.0", 
+        "oep-star:mass": "1.26", 
+        "oep-orbit:semimajoraxis": "0.0306", 
+        "artisanal:foundry": "http://www.londonintegers.com/", 
+        "oep-star:angulardistance": "2e-05", 
+        "oep-star:metallicity": "0.37", 
+        "oep:name": "OGLE-TR-132 b"
+      }
+    }
+  ]
+}

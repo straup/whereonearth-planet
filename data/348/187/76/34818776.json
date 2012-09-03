@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818776, 
+      "properties": {
+        "oep-star:magV": "7.09", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HD 220773 b", 
+        "oep-star:rightascension": "23 26 27", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+08 38 38", 
+        "oep-star:spectraltype": "F9", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/02/04", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": null, 
+        "oep:description": "The Jovian planet HD 220773b is orbiting an F9-type star. It has a predicted displacement of 0.242mas and might be an interesting target for astrometry.", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34818776, 
+        "woe:id": 34818776, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "49", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "1.45", 
+        "oep:id": "HD 220773 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "3724.7", 
+        "oep-orbit:eccentricity": "0.51", 
+        "oep-star:mass": "1.16", 
+        "oep-orbit:semimajoraxis": "4.94", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.100816", 
+        "oep-star:metallicity": "0.09", 
+        "oep:name": "HD 220773 b"
+      }
+    }
+  ]
+}

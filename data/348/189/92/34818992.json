@@ -1,0 +1,55 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818992, 
+      "properties": {
+        "oep-star:magV": "13.4", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "Kepler-12 b", 
+        "oep-star:rightascension": null, 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": null, 
+        "oep-star:spectraltype": "G0", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "11/09/09", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2011", 
+        "oep-orbit:inclination": "88.76", 
+        "oep-star:radius": "1.483", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34818992, 
+        "woe:id": 34818992, 
+        "oep-star:magH": null, 
+        "oep-star:distance": null, 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "0.431", 
+        "oep:id": "Kepler-12 b", 
+        "oep:radius": "1.695", 
+        "oep-orbit:period": "4.4379637", 
+        "oep-orbit:eccentricity": "0.01", 
+        "oep-star:mass": "1.166", 
+        "oep-orbit:semimajoraxis": "0.0556", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": "0.07", 
+        "oep:name": [
+          "Kepler-12 b", 
+          "GSC 03549-00844 b", 
+          "KOI-20 b", 
+          "2MASS J19045842+5002253 b", 
+          "KIC 11804465 b"
+        ]
+      }
+    }
+  ]
+}

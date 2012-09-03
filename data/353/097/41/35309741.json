@@ -1,0 +1,54 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35309741, 
+      "properties": {
+        "oep-star:magV": "16.03", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "CoRoT-14 b", 
+        "oep-star:rightascension": "06 53 42", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-05 32 10", 
+        "oep-star:spectraltype": "F9V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "10/12/22", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2010", 
+        "oep-orbit:inclination": "79.6", 
+        "oep-star:radius": "1.21", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35309741, 
+        "woe:id": 35309741, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "1340", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "7.6", 
+        "oep:id": "CoRoT-14 b", 
+        "oep:radius": "1.09", 
+        "oep-orbit:period": "1.51214", 
+        "oep-orbit:eccentricity": "0.0", 
+        "oep-star:mass": "1.13", 
+        "oep-orbit:semimajoraxis": "0.027", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "2e-05", 
+        "oep-star:metallicity": "0.05", 
+        "oep:name": [
+          "CoRoT-14 b", 
+          "CoRoT-Exo-14 b", 
+          "2MASS J06534181-0532097 b", 
+          "CoRoTID 110864907 b"
+        ]
+      }
+    }
+  ]
+}

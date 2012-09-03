@@ -1,0 +1,52 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 37156617, 
+      "properties": {
+        "oep-star:magV": "12.7", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "WASP-36 b", 
+        "oep-star:rightascension": "08 45 19", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-08 01 37", 
+        "oep-star:spectraltype": "G2", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "11/10/25", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2010", 
+        "oep-orbit:inclination": "83.65", 
+        "oep-star:radius": "0.943", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 37156617, 
+        "woe:id": 37156617, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "450", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "2.279", 
+        "oep:id": "WASP-36 b", 
+        "oep:radius": "1.269", 
+        "oep-orbit:period": "1.5373653", 
+        "oep-orbit:eccentricity": "0.0", 
+        "oep-star:mass": "1.02", 
+        "oep-orbit:semimajoraxis": "0.02624", 
+        "artisanal:foundry": "http://www.londonintegers.com/", 
+        "oep-star:angulardistance": "5.8e-05", 
+        "oep-star:metallicity": "-0.31", 
+        "oep:name": [
+          "WASP-36 b", 
+          "2MASS J08461929-0801370 b"
+        ]
+      }
+    }
+  ]
+}

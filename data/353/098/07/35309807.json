@@ -1,0 +1,54 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35309807, 
+      "properties": {
+        "oep-star:magV": "10.42", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HAT-P-30/WASP-51 b", 
+        "oep-star:rightascension": "08 15 48", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+05 50 12", 
+        "oep-star:spectraltype": "F", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/04/08", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2011", 
+        "oep-orbit:inclination": "83.6", 
+        "oep-star:radius": "1.33", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35309807, 
+        "woe:id": 35309807, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "193", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "0.711", 
+        "oep:id": "HAT-P-30", 
+        "oep:radius": "1.34", 
+        "oep-orbit:period": "2.810595", 
+        "oep-orbit:eccentricity": "0.035", 
+        "oep-star:mass": "1.18", 
+        "oep-orbit:semimajoraxis": "0.0419", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.000217", 
+        "oep-star:metallicity": "-0.08", 
+        "oep:name": [
+          "HAT-P-30", 
+          "WASP-51 b", 
+          "WASP-51", 
+          "2MASS J08154797+0550121"
+        ]
+      }
+    }
+  ]
+}

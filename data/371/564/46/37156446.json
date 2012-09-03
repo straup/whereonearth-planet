@@ -1,0 +1,52 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 37156446, 
+      "properties": {
+        "oep-star:magV": "16.84", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "OGLE-TR-182 b", 
+        "oep-star:rightascension": "11 09 19", 
+        "oep-star:magK": "14.74", 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-61 05 43", 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": "15.45", 
+        "oep-star:magI": "15.86", 
+        "oep:lastupdate": "10/06/24", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2007", 
+        "oep-orbit:inclination": "85.7", 
+        "oep-star:radius": "1.14", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 37156446, 
+        "woe:id": 37156446, 
+        "oep-star:magH": "14.9", 
+        "oep-star:distance": null, 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "1.06", 
+        "oep:id": "OGLE-TR-182 b", 
+        "oep:radius": "1.47", 
+        "oep-orbit:period": "3.9791", 
+        "oep-orbit:eccentricity": "0.0", 
+        "oep-star:mass": "1.14", 
+        "oep-orbit:semimajoraxis": "0.051", 
+        "artisanal:foundry": "http://www.londonintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": "0.37", 
+        "oep:name": [
+          "OGLE-TR-182 b", 
+          "2MASS J11091871-6105429 b"
+        ]
+      }
+    }
+  ]
+}

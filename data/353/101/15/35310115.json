@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35310115, 
+      "properties": {
+        "oep-star:magV": "11.4", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "GQ Lup b", 
+        "oep-star:rightascension": "15 49 12", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": "This image show the star GQ Lupi and a planetary companion on the right. It was taken with NOCA on VLT. The planetary companion is about 250 dimmer than the star. Credit: ESO.", 
+        "oep-star:declination": "-35 39 03", 
+        "oep-star:spectraltype": "K7eV", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "10/12/06", 
+        "oep:image": "GQ Lupi", 
+        "oep:discoveryyear": "2005", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": null, 
+        "oep:description": "GQ Lupi b is a directly imaged planet or brown dwarf orbiting the star GQ Lupi in the constellation Lupus. ", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35310115, 
+        "woe:id": 35310115, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "140", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "imaging", 
+        "oep:mass": "21.5", 
+        "oep:id": "GQ Lup b", 
+        "oep:radius": "1.8", 
+        "oep-orbit:period": null, 
+        "oep-orbit:eccentricity": null, 
+        "oep-star:mass": "0.7", 
+        "oep-orbit:semimajoraxis": "103", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.735714", 
+        "oep-star:metallicity": null, 
+        "oep:name": "GQ Lup b"
+      }
+    }
+  ]
+}

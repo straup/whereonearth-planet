@@ -1,0 +1,55 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34819116, 
+      "properties": {
+        "oep-star:magV": "9.42", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "WASP-38 b", 
+        "oep-star:rightascension": "16 15 50", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+10 01 57", 
+        "oep-star:spectraltype": "F8", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/04/08", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2010", 
+        "oep-orbit:inclination": "88.69", 
+        "oep-star:radius": "1.365", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34819116, 
+        "woe:id": 34819116, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "110", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "2.712", 
+        "oep:id": "WASP-38 b", 
+        "oep:radius": "1.079", 
+        "oep-orbit:period": "6.871815", 
+        "oep-orbit:eccentricity": "0.0321", 
+        "oep-star:mass": "1.216", 
+        "oep-orbit:semimajoraxis": "0.07551", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.000686", 
+        "oep-star:metallicity": "-0.12", 
+        "oep:name": [
+          "WASP-38 b", 
+          "HD 146389 b", 
+          "TYC 950-01156-1 b", 
+          "2MASS J16155036+1001572 b", 
+          "BD+10 2980 b"
+        ]
+      }
+    }
+  ]
+}

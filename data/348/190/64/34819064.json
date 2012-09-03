@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34819064, 
+      "properties": {
+        "oep-star:magV": null, 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "MOA-2007-BLG-400-L b", 
+        "oep-star:rightascension": "18 09 42", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-29 13 27", 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "10/12/06", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2008", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": null, 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34819064, 
+        "woe:id": 34819064, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "6000", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "microlensing", 
+        "oep:mass": "0.9", 
+        "oep:id": "MOA-2007-BLG-400-L b", 
+        "oep:radius": null, 
+        "oep-orbit:period": null, 
+        "oep-orbit:eccentricity": null, 
+        "oep-star:mass": "0.35", 
+        "oep-orbit:semimajoraxis": "0.85", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.000142", 
+        "oep-star:metallicity": null, 
+        "oep:name": "MOA-2007-BLG-400-L b"
+      }
+    }
+  ]
+}

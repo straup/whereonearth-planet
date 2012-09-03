@@ -1,0 +1,53 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35309791, 
+      "properties": {
+        "oep-star:magV": "11.46", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HAT-P-21 b", 
+        "oep-star:rightascension": "11 25 06", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+41 01 41", 
+        "oep-star:spectraltype": "G3", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "10/12/11", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2010", 
+        "oep-orbit:inclination": "87.2", 
+        "oep-star:radius": "1.105", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35309791, 
+        "woe:id": 35309791, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "254", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "4.063", 
+        "oep:id": "HAT-P-21 b", 
+        "oep:radius": "1.024", 
+        "oep-orbit:period": "4.124461", 
+        "oep-orbit:eccentricity": "0.228", 
+        "oep-star:mass": "0.947", 
+        "oep-orbit:semimajoraxis": "0.0494", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.000194", 
+        "oep-star:metallicity": "0.01", 
+        "oep:name": [
+          "HAT-P-21 b", 
+          "TYC 3013-01229-1 b", 
+          "2MASS J11250598+4101406 b"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 37156374, 
+      "properties": {
+        "oep-star:magV": "7.4", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "NGC 4349 No 127 b", 
+        "oep-star:rightascension": "12 24 08", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-61 52 18", 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "07/11/27", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2007", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": null, 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 37156374, 
+        "woe:id": 37156374, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "2176", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "19.8", 
+        "oep:id": "NGC 4349 No 127 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "677.8", 
+        "oep-orbit:eccentricity": "0.19", 
+        "oep-star:mass": "3.9", 
+        "oep-orbit:semimajoraxis": "2.38", 
+        "artisanal:foundry": "http://www.londonintegers.com/", 
+        "oep-star:angulardistance": "0.001094", 
+        "oep-star:metallicity": null, 
+        "oep:name": "NGC 4349 No 127 b"
+      }
+    }
+  ]
+}

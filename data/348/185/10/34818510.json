@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818510, 
+      "properties": {
+        "oep-star:magV": null, 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "2M 2140+16 b", 
+        "oep-star:rightascension": "21 40 29", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+16 25 18", 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/01/20", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2010", 
+        "oep-orbit:inclination": "46.2", 
+        "oep-star:radius": "0.1", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34818510, 
+        "woe:id": 34818510, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "25", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "imaging", 
+        "oep:mass": "20", 
+        "oep:id": "2M 2140+16 b", 
+        "oep:radius": "0.92", 
+        "oep-orbit:period": "7340", 
+        "oep-orbit:eccentricity": "0.26", 
+        "oep-star:mass": "0.08", 
+        "oep-orbit:semimajoraxis": "3.53", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.1412", 
+        "oep-star:metallicity": null, 
+        "oep:name": "2M 2140+16 b"
+      }
+    }
+  ]
+}

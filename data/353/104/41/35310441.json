@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35310441, 
+      "properties": {
+        "oep-star:magV": null, 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "WASP-65 b", 
+        "oep-star:rightascension": null, 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": null, 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "11/09/13", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2011", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": null, 
+        "oep:description": "This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35310441, 
+        "woe:id": 35310441, 
+        "oep-star:magH": null, 
+        "oep-star:distance": null, 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "1.6", 
+        "oep:id": "WASP-65 b", 
+        "oep:radius": "1.3", 
+        "oep-orbit:period": "2.3", 
+        "oep-orbit:eccentricity": null, 
+        "oep-star:mass": null, 
+        "oep-orbit:semimajoraxis": null, 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": null, 
+        "oep:name": "WASP-65 b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34819024, 
+      "properties": {
+        "oep-star:magV": null, 
+        "oep:new": "1", 
+        "oep:id_exoplaneteu": "Kepler-47(AB) c", 
+        "oep-star:rightascension": "19 41 11", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": "An artists depiction of the Kepler-47 system. Credit: NASA/JPL-Caltech/T. Pyle", 
+        "oep-star:declination": "+46 55 13", 
+        "oep-star:spectraltype": "G", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/08/28", 
+        "oep:image": "Kepler47", 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": "89.826", 
+        "oep-star:radius": "0.964", 
+        "oep:description": [
+          "Kepler-47(AB) is a multiplanetary system orbiting a binary star. This is the first system of its kind. One of the binary stars is a Sun-like star (quoted here), the other one is roughly one-third its size. The orbital period of the binary is 7.45 days. The outer planet Kepler-47(AB) c is located in the habitable zone where liquid water could exist. ", 
+          null
+        ], 
+        "oep:multiplicity": "2", 
+        "artisanal:id": 34819024, 
+        "woe:id": 34819024, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "1189", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": null, 
+        "oep:id": "Kepler-47(AB) c", 
+        "oep:radius": "0.42011066", 
+        "oep-orbit:period": "303.158", 
+        "oep-orbit:eccentricity": "0", 
+        "oep-star:mass": "1.043", 
+        "oep-orbit:semimajoraxis": "0.989", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": null, 
+        "oep:name": [
+          "Kepler-47(AB) c", 
+          "KIC 10020423 c", 
+          "KOI 3154 c", 
+          "2MASS J19411149+4655136 c", 
+          "Kepler-47 c"
+        ]
+      }
+    }
+  ]
+}

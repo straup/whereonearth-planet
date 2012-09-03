@@ -1,0 +1,61 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818612, 
+      "properties": {
+        "oep-star:magV": "7.35", 
+        "oep:new": [
+          "0", 
+          "0"
+        ], 
+        "oep:id_exoplaneteu": "HD 106515A b", 
+        "oep-star:rightascension": "12 15 07", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": [
+          null, 
+          null
+        ], 
+        "oep-star:declination": "-07 15 26", 
+        "oep-star:spectraltype": "G5", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/08/20", 
+        "oep:image": [
+          null, 
+          null
+        ], 
+        "oep:discoveryyear": "2011", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": null, 
+        "oep:description": [
+          "HD 106515A is part of a binary system. It also shows signs of a planetary companion. The star system is 4 to 8 billion years old.", 
+          null
+        ], 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34818612, 
+        "woe:id": 34818612, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "35.2", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "9.33", 
+        "oep:id": "HD 106515A b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "3667", 
+        "oep-orbit:eccentricity": "0.57", 
+        "oep-star:mass": "0.91", 
+        "oep-orbit:semimajoraxis": "4.43", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": null, 
+        "oep:name": "HD 106515A b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35310073, 
+      "properties": {
+        "oep-star:magV": "8.25", 
+        "oep:new": [
+          "0", 
+          "0"
+        ], 
+        "oep:id_exoplaneteu": "HD 5891 b", 
+        "oep-star:rightascension": "01 00 59 ", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+20 17 56", 
+        "oep-star:spectraltype": "G5D", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "11/08/23", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2011", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "8.7", 
+        "oep:description": [
+          "The star HD 5891 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.", 
+          null
+        ], 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35310073, 
+        "woe:id": 35310073, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "251", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "7.6", 
+        "oep:id": "HD 5891 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "177.11", 
+        "oep-orbit:eccentricity": "0.066", 
+        "oep-star:mass": "1.91", 
+        "oep-orbit:semimajoraxis": "0.76", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": "-0.02", 
+        "oep:name": "HD 5891 b"
+      }
+    }
+  ]
+}

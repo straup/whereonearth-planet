@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35310353, 
+      "properties": {
+        "oep-star:magV": "5.15", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "mu Ara c", 
+        "oep-star:rightascension": "17 44 08", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-51 50 02", 
+        "oep-star:spectraltype": "G3 IV-V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "09/04/02", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2004", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "1.245", 
+        "oep:description": null, 
+        "oep:multiplicity": "4", 
+        "artisanal:id": 35310353, 
+        "woe:id": 35310353, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "15.3", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "0.03321", 
+        "oep:id": "mu Ara c", 
+        "oep:radius": null, 
+        "oep-orbit:period": "9.6386", 
+        "oep-orbit:eccentricity": "0.172", 
+        "oep-star:mass": "1.08", 
+        "oep-orbit:semimajoraxis": "0.09094", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.005944", 
+        "oep-star:metallicity": "0.28", 
+        "oep:name": "mu Ara c"
+      }
+    }
+  ]
+}

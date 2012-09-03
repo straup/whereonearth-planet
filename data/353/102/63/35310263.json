@@ -1,0 +1,54 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35310263, 
+      "properties": {
+        "oep-star:magV": "13.8", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "Kepler-15 b", 
+        "oep-star:rightascension": null, 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": null, 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "11/08/02", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2011", 
+        "oep-orbit:inclination": "87.44", 
+        "oep-star:radius": "0.992", 
+        "oep:description": "Kepler-15b is a planet discovered by NASA's Kepler mission and confirmed by the Hobby-Eberly Telescope. The density of the planet is high, suggesting an enrichment in heavy elements.", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35310263, 
+        "woe:id": 35310263, 
+        "oep-star:magH": null, 
+        "oep-star:distance": null, 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "0.66", 
+        "oep:id": "Kepler-15 b", 
+        "oep:radius": "0.96", 
+        "oep-orbit:period": "4.942782", 
+        "oep-orbit:eccentricity": null, 
+        "oep-star:mass": "1.018", 
+        "oep-orbit:semimajoraxis": "0.05714", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": "0.36", 
+        "oep:name": [
+          "Kepler-15 b", 
+          "2MASS J19444814+4908244 b", 
+          "KOI-128 b", 
+          "KIC 11359879 b"
+        ]
+      }
+    }
+  ]
+}

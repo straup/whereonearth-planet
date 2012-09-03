@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818896, 
+      "properties": {
+        "oep-star:magV": "8.73", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HD 114386 b", 
+        "oep-star:rightascension": "13 10 39", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-35 03 17", 
+        "oep-star:spectraltype": "K3 V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "10/12/16", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2003", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "0.76", 
+        "oep:description": null, 
+        "oep:multiplicity": "2", 
+        "artisanal:id": 34818896, 
+        "woe:id": 34818896, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "28", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "1.24", 
+        "oep:id": "HD 114386 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "937", 
+        "oep-orbit:eccentricity": "0.23", 
+        "oep-star:mass": "0.75", 
+        "oep-orbit:semimajoraxis": "1.65", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.058929", 
+        "oep-star:metallicity": null, 
+        "oep:name": "HD 114386 b"
+      }
+    }
+  ]
+}

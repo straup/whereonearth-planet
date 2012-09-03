@@ -1,0 +1,53 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35309801, 
+      "properties": {
+        "oep-star:magV": "12.21", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HAT-P-27/WASP-40 b", 
+        "oep-star:rightascension": "14 51 04", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+05 56 50", 
+        "oep-star:spectraltype": "G8", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "11/01/25", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2011", 
+        "oep-orbit:inclination": "84.98", 
+        "oep-star:radius": "0.898", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35309801, 
+        "woe:id": 35309801, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "204", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "0.66", 
+        "oep:id": "HAT-P-27", 
+        "oep:radius": "1.055", 
+        "oep-orbit:period": "3.0395721", 
+        "oep-orbit:eccentricity": "0.078", 
+        "oep-star:mass": "0.945", 
+        "oep-orbit:semimajoraxis": "0.0403", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.000198", 
+        "oep-star:metallicity": "0.29", 
+        "oep:name": [
+          "HAT-P-27", 
+          "WASP-40 b", 
+          "2MASS J14510418+0556505"
+        ]
+      }
+    }
+  ]
+}

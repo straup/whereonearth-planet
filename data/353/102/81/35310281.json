@@ -1,0 +1,65 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35310281, 
+      "properties": {
+        "oep-star:magV": null, 
+        "oep:new": [
+          "0", 
+          "0"
+        ], 
+        "oep:id_exoplaneteu": "Kepler-26 c", 
+        "oep-star:rightascension": "18 59 45", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": [
+          null, 
+          null
+        ], 
+        "oep-star:declination": "+46 33 59", 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/08/06", 
+        "oep:image": [
+          null, 
+          null
+        ], 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "0.59", 
+        "oep:description": [
+          "This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-26 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. ", 
+          null
+        ], 
+        "oep:multiplicity": "2", 
+        "artisanal:id": 35310281, 
+        "woe:id": 35310281, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "421.28", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": null, 
+        "oep:id": "Kepler-26 c", 
+        "oep:radius": "0.32806", 
+        "oep-orbit:period": "17.25", 
+        "oep-orbit:eccentricity": null, 
+        "oep-star:mass": "0.65", 
+        "oep-orbit:semimajoraxis": "0.107", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": "-0.21", 
+        "oep:name": [
+          "Kepler-26 c", 
+          "KOI 250.02", 
+          "KIC 9757613 c"
+        ]
+      }
+    }
+  ]
+}

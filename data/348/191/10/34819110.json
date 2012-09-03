@@ -1,0 +1,53 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34819110, 
+      "properties": {
+        "oep-star:magV": "11.3", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "WASP-29 b", 
+        "oep-star:rightascension": "23 51 31", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-39 54 24", 
+        "oep-star:spectraltype": "K4V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "10/09/28", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2010", 
+        "oep-orbit:inclination": "88.8", 
+        "oep-star:radius": "0.846", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34819110, 
+        "woe:id": 34819110, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "80", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "0.244", 
+        "oep:id": "WASP-29 b", 
+        "oep:radius": "0.792", 
+        "oep-orbit:period": "3.922727", 
+        "oep-orbit:eccentricity": "0.03", 
+        "oep-star:mass": "0.825", 
+        "oep-orbit:semimajoraxis": "0.0457", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.000571", 
+        "oep-star:metallicity": "0.11", 
+        "oep:name": [
+          "WASP-29 b", 
+          "2MASS J23513108-3954241 b", 
+          "TYC 8015-1020-1 b"
+        ]
+      }
+    }
+  ]
+}

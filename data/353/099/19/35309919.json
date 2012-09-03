@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35309919, 
+      "properties": {
+        "oep-star:magV": "6.78", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HD 16141 b", 
+        "oep-star:rightascension": "02 35 19", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-03 33 38", 
+        "oep-star:spectraltype": "G5 IV", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "10/12/29", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2000", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "1", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35309919, 
+        "woe:id": 35309919, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "35.9", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "0.215", 
+        "oep:id": "HD 16141 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "75.82", 
+        "oep-orbit:eccentricity": "0.28", 
+        "oep-star:mass": "1.01", 
+        "oep-orbit:semimajoraxis": "0.35", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.009749", 
+        "oep-star:metallicity": "0.02", 
+        "oep:name": "HD 16141 b"
+      }
+    }
+  ]
+}

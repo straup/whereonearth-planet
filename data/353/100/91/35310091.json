@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35310091, 
+      "properties": {
+        "oep-star:magV": "8.9", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HD 73267 b", 
+        "oep-star:rightascension": "08 36 18", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-34 27 36", 
+        "oep-star:spectraltype": "G5V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "08/10/28", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2008", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "1.04", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35310091, 
+        "woe:id": 35310091, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "54.91", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "3.06", 
+        "oep:id": "HD 73267 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "1260", 
+        "oep-orbit:eccentricity": "0.256", 
+        "oep-star:mass": "0.89", 
+        "oep-orbit:semimajoraxis": "2.198", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.040029", 
+        "oep-star:metallicity": "0.03", 
+        "oep:name": "HD 73267 b"
+      }
+    }
+  ]
+}

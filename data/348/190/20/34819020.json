@@ -1,0 +1,54 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34819020, 
+      "properties": {
+        "oep-star:magV": "12.7", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "Kepler-4 b", 
+        "oep-star:rightascension": "19 02 28", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+50 08 09", 
+        "oep-star:spectraltype": "G0", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "10/01/06", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2010", 
+        "oep-orbit:inclination": "89.76", 
+        "oep-star:radius": "1.487", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34819020, 
+        "woe:id": 34819020, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "550", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "0.077", 
+        "oep:id": "Kepler-4 b", 
+        "oep:radius": "0.357", 
+        "oep-orbit:period": "3.21346", 
+        "oep-orbit:eccentricity": "0.0", 
+        "oep-star:mass": "1.223", 
+        "oep-orbit:semimajoraxis": "0.0456", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "8.3e-05", 
+        "oep-star:metallicity": "0.17", 
+        "oep:name": [
+          "Kepler-4 b", 
+          "2MASS J19022767+5008087 b", 
+          "KIC 11853905 b", 
+          "KOI-7 b"
+        ]
+      }
+    }
+  ]
+}

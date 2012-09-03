@@ -1,0 +1,66 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35310255, 
+      "properties": {
+        "oep-star:magV": "10.96", 
+        "oep:description": [
+          "This planet was confirmed using infrared observations from Spitzer. It is highly unlikely (0.002%) that Kepler-10 c is a false positive. The planet is so close to its host star that it can not sustain liquid water on its surface. It is therefore most likely not habitable and a scorched, molten Earth.", 
+          null, 
+          null
+        ], 
+        "oep:id_exoplaneteu": "Kepler-10 c", 
+        "oep-star:rightascension": "19 02 43", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": [
+          null, 
+          null
+        ], 
+        "oep-star:declination": "+50 14 29", 
+        "oep-star:spectraltype": "G", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "11/05/23", 
+        "oep:image": [
+          null, 
+          null
+        ], 
+        "oep:discoveryyear": "2011", 
+        "oep-orbit:inclination": "84.4", 
+        "oep-star:radius": "1.056", 
+        "oep:new": [
+          "0", 
+          "0"
+        ], 
+        "oep:multiplicity": "2", 
+        "artisanal:id": 35310255, 
+        "woe:id": 35310255, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "173", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "0.016415", 
+        "oep:id": "Kepler-10 c", 
+        "oep:radius": "0.203", 
+        "oep-orbit:period": "45.3", 
+        "oep-orbit:eccentricity": "0.0", 
+        "oep-star:mass": "0.895", 
+        "oep-orbit:semimajoraxis": "0.2396", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "9.7e-05", 
+        "oep-star:metallicity": "-0.15", 
+        "oep:name": [
+          "Kepler-10 c", 
+          "KIC 11904151 c", 
+          "2MASS J19024305+5014286 c"
+        ]
+      }
+    }
+  ]
+}

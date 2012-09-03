@@ -1,0 +1,65 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 37156095, 
+      "properties": {
+        "oep-star:magV": null, 
+        "oep:new": [
+          "0", 
+          "0"
+        ], 
+        "oep:id_exoplaneteu": "Kepler-29 b", 
+        "oep-star:rightascension": "19 53 24", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": [
+          null, 
+          null
+        ], 
+        "oep-star:declination": "+47 29 28", 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/08/06", 
+        "oep:image": [
+          null, 
+          null
+        ], 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "0.96", 
+        "oep:description": [
+          "This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-29 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. ", 
+          null
+        ], 
+        "oep:multiplicity": "2", 
+        "artisanal:id": 37156095, 
+        "woe:id": 37156095, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "1246", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": null, 
+        "oep:id": "Kepler-29 b", 
+        "oep:radius": "0.328069", 
+        "oep-orbit:period": "10.33", 
+        "oep-orbit:eccentricity": null, 
+        "oep-star:mass": "1.0", 
+        "oep-orbit:semimajoraxis": "0.09", 
+        "artisanal:foundry": "http://www.londonintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": null, 
+        "oep:name": [
+          "Kepler-29 b", 
+          "KOI 738.01", 
+          "KIC 10358759 b"
+        ]
+      }
+    }
+  ]
+}

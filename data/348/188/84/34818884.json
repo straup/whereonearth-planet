@@ -1,0 +1,58 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818884, 
+      "properties": {
+        "oep-star:magV": "10.162", 
+        "oep:new": [
+          "0", 
+          "0"
+        ], 
+        "oep:id_exoplaneteu": "HAT-P-34 b", 
+        "oep-star:rightascension": "20 12 47", 
+        "oep-star:magK": "9.247", 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+18 06 18", 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": "9.460", 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/01/04", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": "87.1", 
+        "oep-star:radius": "1.535", 
+        "oep:description": [
+          "HAT-P-34 b is a transiting planet that has been discovered by the HATNet collaboration. HATNet is a ground-based survey using standard telephoto lenses such as the Canon 11cm diameter f/1.8L. ", 
+          null
+        ], 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34818884, 
+        "woe:id": 34818884, 
+        "oep-star:magH": "9.322", 
+        "oep-star:distance": "257", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "3.328", 
+        "oep:id": "HAT-P-34 b", 
+        "oep:radius": "1.197", 
+        "oep-orbit:period": "5.4527", 
+        "oep-orbit:eccentricity": "0.441", 
+        "oep-star:mass": "1.392", 
+        "oep-orbit:semimajoraxis": "0.0677", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": "0.22", 
+        "oep:name": [
+          "HAT-P-34 b", 
+          "2MASS 20124688+1806175"
+        ]
+      }
+    }
+  ]
+}

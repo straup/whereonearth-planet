@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818656, 
+      "properties": {
+        "oep-star:magV": "6.45", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HD 134987 c", 
+        "oep-star:rightascension": "15 13 28", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-25 18 33", 
+        "oep-star:spectraltype": "G5 V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "09/12/15", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2009", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "1.25", 
+        "oep:description": null, 
+        "oep:multiplicity": "2", 
+        "artisanal:id": 34818656, 
+        "woe:id": 34818656, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "22.2", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "0.82", 
+        "oep:id": "HD 134987 c", 
+        "oep:radius": null, 
+        "oep-orbit:period": "5000", 
+        "oep-orbit:eccentricity": "0.12", 
+        "oep-star:mass": "1.07", 
+        "oep-orbit:semimajoraxis": "5.8", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.261261", 
+        "oep-star:metallicity": "0.25", 
+        "oep:name": "HD 134987 c"
+      }
+    }
+  ]
+}

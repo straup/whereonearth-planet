@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35309867, 
+      "properties": {
+        "oep-star:magV": "7.54", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HD 121504 b", 
+        "oep-star:rightascension": "13 57 17", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-56 02 24", 
+        "oep-star:spectraltype": "G2 V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "09/10/06", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2003", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": null, 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35309867, 
+        "woe:id": 35309867, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "44.37", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "1.22", 
+        "oep:id": "HD 121504 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "63.33", 
+        "oep-orbit:eccentricity": "0.03", 
+        "oep-star:mass": "1.18", 
+        "oep-orbit:semimajoraxis": "0.33", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.007437", 
+        "oep-star:metallicity": "0.16", 
+        "oep:name": "HD 121504 b"
+      }
+    }
+  ]
+}

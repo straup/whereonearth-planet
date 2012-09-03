@@ -1,0 +1,54 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818574, 
+      "properties": {
+        "oep-star:magV": "8.67", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "GJ 832 b", 
+        "oep-star:rightascension": "21 33 34", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-49 00 32", 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "10/11/13", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2008", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": null, 
+        "oep:description": "The star Gliese 832 is a star located in the solar neighbourhood in the constallation Grus. Therefore the observed planet Gliese 832 b is a good candidate for astrometric observations.", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34818574, 
+        "woe:id": 34818574, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "4.94", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "0.64", 
+        "oep:id": "Gliese 832 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "3416", 
+        "oep-orbit:eccentricity": "0.12", 
+        "oep-star:mass": "0.45", 
+        "oep-orbit:semimajoraxis": "3.4", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.688259", 
+        "oep-star:metallicity": "-0.31", 
+        "oep:name": [
+          "Gliese 832 b", 
+          "GJ 832 b", 
+          "Gj 832 b", 
+          "Gl 832 b"
+        ]
+      }
+    }
+  ]
+}

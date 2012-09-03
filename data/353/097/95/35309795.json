@@ -1,0 +1,53 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35309795, 
+      "properties": {
+        "oep-star:magV": "11.82", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HAT-P-24 b", 
+        "oep-star:rightascension": "07 15 18", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+14 15 44", 
+        "oep-star:spectraltype": "F8", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/07/05", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2010", 
+        "oep-orbit:inclination": "88.6", 
+        "oep-star:radius": "1.317", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35309795, 
+        "woe:id": 35309795, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "306", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "0.685", 
+        "oep:id": "HAT-P-24 b", 
+        "oep:radius": "1.242", 
+        "oep-orbit:period": "3.35524", 
+        "oep-orbit:eccentricity": "0.067", 
+        "oep-star:mass": "1.191", 
+        "oep-orbit:semimajoraxis": "0.0465", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.000152", 
+        "oep-star:metallicity": "-0.16", 
+        "oep:name": [
+          "HAT-P-24 b", 
+          "TYC 774-01441-1 b", 
+          "2MASS J07151801+1415453 b"
+        ]
+      }
+    }
+  ]
+}

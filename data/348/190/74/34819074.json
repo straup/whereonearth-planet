@@ -1,0 +1,52 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34819074, 
+      "properties": {
+        "oep-star:magV": null, 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "OGLE-TR-10 b", 
+        "oep-star:rightascension": "17 51 28", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-29 52 34", 
+        "oep-star:spectraltype": "G or K", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": "14.93", 
+        "oep:lastupdate": "10/06/24", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2004", 
+        "oep-orbit:inclination": "84.5", 
+        "oep-star:radius": "1.16", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34819074, 
+        "woe:id": 34819074, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "1500", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "0.68", 
+        "oep:id": "OGLE-TR-10 b", 
+        "oep:radius": "1.72", 
+        "oep-orbit:period": "3.10129", 
+        "oep-orbit:eccentricity": "0.0", 
+        "oep-star:mass": "1.18", 
+        "oep-orbit:semimajoraxis": "0.04162", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "2.8e-05", 
+        "oep-star:metallicity": "0.28", 
+        "oep:name": [
+          "OGLE-TR-10 b", 
+          "V5125 Sgr b"
+        ]
+      }
+    }
+  ]
+}

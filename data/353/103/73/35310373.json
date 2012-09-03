@@ -1,0 +1,53 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35310373, 
+      "properties": {
+        "oep-star:magV": "16.6", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "OGLE-TR-56 b", 
+        "oep-star:rightascension": "17 56 35", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-29 32 21", 
+        "oep-star:spectraltype": "G", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "10/06/24", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2002", 
+        "oep-orbit:inclination": "78.8", 
+        "oep-star:radius": "1.32", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35310373, 
+        "woe:id": 35310373, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "1500", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "1.3", 
+        "oep:id": "OGLE-TR-56 b", 
+        "oep:radius": "1.2", 
+        "oep-orbit:period": "1.211909", 
+        "oep-orbit:eccentricity": "0.0", 
+        "oep-star:mass": "1.17", 
+        "oep-orbit:semimajoraxis": "0.0225", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "1.5e-05", 
+        "oep-star:metallicity": null, 
+        "oep:name": [
+          "OGLE-TR-56 b", 
+          "OGLE-TR-056 b", 
+          "V5157 Sgr b"
+        ]
+      }
+    }
+  ]
+}

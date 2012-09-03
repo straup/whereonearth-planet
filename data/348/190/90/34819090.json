@@ -1,0 +1,52 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34819090, 
+      "properties": {
+        "oep-star:magV": "13.72", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "TrES-5", 
+        "oep-star:rightascension": "20 20 53", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+59 26 57", 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "11/09/05", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2011", 
+        "oep-orbit:inclination": "84.529", 
+        "oep-star:radius": "0.866", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34819090, 
+        "woe:id": 34819090, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "360", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "1.778", 
+        "oep:id": "TrES-5", 
+        "oep:radius": "1.209", 
+        "oep-orbit:period": "1.4822446", 
+        "oep-orbit:eccentricity": null, 
+        "oep-star:mass": "0.893", 
+        "oep-orbit:semimajoraxis": "0.02446", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "6.8e-05", 
+        "oep-star:metallicity": "0.2", 
+        "oep:name": [
+          "TrES-5", 
+          "2MASS J20205324+5926556"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818624, 
+      "properties": {
+        "oep-star:magV": "7.51", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HD 11506 b", 
+        "oep-star:rightascension": "01 52 51", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-19 30 25", 
+        "oep-star:spectraltype": "G0V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "09/02/24", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2007", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "1.38", 
+        "oep:description": "The star HD 11506 is a yellow dwarf star in the constellation Cetus. The star hosts two planets. The inner planer was discovered by using Bayesian analysis (Tuomi et al 2009).", 
+        "oep:multiplicity": "2", 
+        "artisanal:id": 34818624, 
+        "woe:id": 34818624, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "53.82", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "3.44", 
+        "oep:id": "HD 11506 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "1270", 
+        "oep-orbit:eccentricity": "0.22", 
+        "oep-star:mass": "1.19", 
+        "oep-orbit:semimajoraxis": "2.43", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.045151", 
+        "oep-star:metallicity": "0.31", 
+        "oep:name": "HD 11506 b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35309779, 
+      "properties": {
+        "oep-star:magV": "10.62", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HAT-P-13 c", 
+        "oep-star:rightascension": "08 39 32", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+47 21 07", 
+        "oep-star:spectraltype": "G4", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "11/02/04", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2009", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "1.56", 
+        "oep:description": "The star HAT-P-13 is located in the constalltion Ursa Major and hosts at least two extrasolar planets. Only the inner planet is transiting. There might be an unconfirmed third planet in the system.", 
+        "oep:multiplicity": "2", 
+        "artisanal:id": 35309779, 
+        "woe:id": 35309779, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "214", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "14.5", 
+        "oep:id": "HAT-P-13 c", 
+        "oep:radius": null, 
+        "oep-orbit:period": "448.2", 
+        "oep-orbit:eccentricity": "0.666", 
+        "oep-star:mass": "1.22", 
+        "oep-orbit:semimajoraxis": "1.186", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.005542", 
+        "oep-star:metallicity": "0.43", 
+        "oep:name": [
+          "HAT-P-13 c", 
+          "TYC 3416-00543-1 c", 
+          "2MASS J08393180+4721073 c"
+        ]
+      }
+    }
+  ]
+}

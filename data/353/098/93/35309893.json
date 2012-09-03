@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35309893, 
+      "properties": {
+        "oep-star:magV": "7.61", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HD 13931 b", 
+        "oep-star:rightascension": "02 16 47", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+43 46 23", 
+        "oep-star:spectraltype": "G0", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "10/03/19", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2010", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "1.23", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35309893, 
+        "woe:id": 35309893, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "44.2", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "1.88", 
+        "oep:id": "HD 13931 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "4218", 
+        "oep-orbit:eccentricity": "0.02", 
+        "oep-star:mass": "1.02", 
+        "oep-orbit:semimajoraxis": "5.15", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.116516", 
+        "oep-star:metallicity": "0.03", 
+        "oep:name": "HD 13931 b"
+      }
+    }
+  ]
+}

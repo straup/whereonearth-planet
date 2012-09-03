@@ -1,0 +1,55 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35309861, 
+      "properties": {
+        "oep-star:magV": "8.04", 
+        "oep:new": [
+          "0", 
+          "0"
+        ], 
+        "oep:id_exoplaneteu": "HD 116029 b", 
+        "oep-star:rightascension": "13 20 39", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+24 38 55", 
+        "oep-star:spectraltype": "K1", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/07/24", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2011", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "4.6", 
+        "oep:description": [
+          "The star HD 116029 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.", 
+          null
+        ], 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35309861, 
+        "woe:id": 35309861, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "123", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "2.1", 
+        "oep:id": "HD 116029 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "670.2", 
+        "oep-orbit:eccentricity": "0", 
+        "oep-star:mass": "1.58", 
+        "oep-orbit:semimajoraxis": "1.73", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": "0.18", 
+        "oep:name": "HD 116029 b"
+      }
+    }
+  ]
+}

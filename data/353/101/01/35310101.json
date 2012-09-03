@@ -1,0 +1,61 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35310101, 
+      "properties": {
+        "oep-star:magV": "5.95", 
+        "oep:new": [
+          "0", 
+          "0"
+        ], 
+        "oep:id_exoplaneteu": "55 Cnc b", 
+        "oep-star:rightascension": "08 52 37", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": [
+          null, 
+          null
+        ], 
+        "oep-star:declination": "+28 20 02", 
+        "oep-star:spectraltype": "K0IV-V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "11/06/07", 
+        "oep:image": [
+          null, 
+          null
+        ], 
+        "oep:discoveryyear": "1996", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "0.943", 
+        "oep:description": [
+          "55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.", 
+          "55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system."
+        ], 
+        "oep:multiplicity": "5", 
+        "artisanal:id": 35310101, 
+        "woe:id": 35310101, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "12.34", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "0.824", 
+        "oep:id": "55 Cnc b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "14.651262", 
+        "oep-orbit:eccentricity": "0.0159", 
+        "oep-star:mass": "0.905", 
+        "oep-orbit:semimajoraxis": "0.1148", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.009303", 
+        "oep-star:metallicity": "0.31", 
+        "oep:name": "55 Cnc b"
+      }
+    }
+  ]
+}

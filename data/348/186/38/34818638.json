@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818638, 
+      "properties": {
+        "oep-star:magV": "7.85", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HD 126525 b", 
+        "oep-star:rightascension": "14 27 33", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-51 55 59", 
+        "oep-star:spectraltype": "G4V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "11/09/12", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2011", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": null, 
+        "oep:description": "This planet is part of a large data release by the Euopean HARP team.", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34818638, 
+        "woe:id": 34818638, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "38.1", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "0.224", 
+        "oep:id": "HD 126525 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "948.12", 
+        "oep-orbit:eccentricity": "0.13", 
+        "oep-star:mass": null, 
+        "oep-orbit:semimajoraxis": "1.8105", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.04752", 
+        "oep-star:metallicity": null, 
+        "oep:name": "HD 126525 b"
+      }
+    }
+  ]
+}

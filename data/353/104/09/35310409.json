@@ -1,0 +1,58 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35310409, 
+      "properties": {
+        "oep-star:magV": "9.3", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "WASP-18 b", 
+        "oep-star:rightascension": "01 37 25", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-45 40 40", 
+        "oep-star:spectraltype": "F6", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/07/05", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2009", 
+        "oep-orbit:inclination": "86", 
+        "oep-star:radius": "1.23", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35310409, 
+        "woe:id": 35310409, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "100", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "10.43", 
+        "oep:id": "WASP-18 b", 
+        "oep:radius": "1.165", 
+        "oep-orbit:period": "0.9414518", 
+        "oep-orbit:eccentricity": "0.0088", 
+        "oep-star:mass": "1.24", 
+        "oep-orbit:semimajoraxis": "0.02047", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.000205", 
+        "oep-star:metallicity": null, 
+        "oep:name": [
+          "WASP-18 b", 
+          "HIP 7562 b", 
+          "TYC 8040-00072-1 b", 
+          "HD 10069 b", 
+          "CD-46 449 b", 
+          "CPD-46 168 b", 
+          "SAO 215585 b", 
+          "2MASS J01372503-4540404 b"
+        ]
+      }
+    }
+  ]
+}

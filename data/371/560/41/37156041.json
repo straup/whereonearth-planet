@@ -1,0 +1,65 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 37156041, 
+      "properties": {
+        "oep-star:magV": "12.5", 
+        "oep:new": [
+          "0", 
+          "0"
+        ], 
+        "oep:id_exoplaneteu": "Kepler-20 b", 
+        "oep-star:rightascension": "19 10 48", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": [
+          null, 
+          null
+        ], 
+        "oep-star:declination": "+42 20 19", 
+        "oep-star:spectraltype": "G8", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "11/12/21", 
+        "oep:image": [
+          null, 
+          null
+        ], 
+        "oep:discoveryyear": "2011", 
+        "oep-orbit:inclination": "86.5", 
+        "oep-star:radius": "0.944", 
+        "oep:description": [
+          "The Kepler-20 system hosts at least five transiting exo-planets. Kepler-20 b has a period of only 3.7 days. Because it is about twice as big as the Earth, it is classified as a super-Earth or sub-Neptune. Kepler-20 b's composition is ambiguous. It could be a terrestrial planet with a rocky surface or it could have a significant gas envelope.", 
+          "The Kepler-20 system hosts at least five transiting exo-planets. Kepler-20 b has a period of only 3.7 days. Because it is about twice as big as the Earth, it is classified as a super-Earth or sub-Neptune. Kepler-20 b's composition is ambiguous. It could be a terrestrial planet with a rocky surface or it could have a significant gas envelope."
+        ], 
+        "oep:multiplicity": "5", 
+        "artisanal:id": 37156041, 
+        "woe:id": 37156041, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "290", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "0.027", 
+        "oep:id": "Kepler-20 b", 
+        "oep:radius": "0.17", 
+        "oep-orbit:period": "3.6961219", 
+        "oep-orbit:eccentricity": null, 
+        "oep-star:mass": "0.912", 
+        "oep-orbit:semimajoraxis": "0.04537", 
+        "artisanal:foundry": "http://www.londonintegers.com/", 
+        "oep-star:angulardistance": "0.000156", 
+        "oep-star:metallicity": "0.02", 
+        "oep:name": [
+          "Kepler-20 b", 
+          "2MASS J19104752+4220194 b", 
+          "KOI-70"
+        ]
+      }
+    }
+  ]
+}

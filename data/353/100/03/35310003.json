@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35310003, 
+      "properties": {
+        "oep-star:magV": "7.79", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HD 25171 b", 
+        "oep-star:rightascension": "03 55 49", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-65 11 12", 
+        "oep-star:spectraltype": "F8V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "10/12/20", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2010", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "1.18", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35310003, 
+        "woe:id": 35310003, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "55", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "0.95", 
+        "oep:id": "HD 25171 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "1845", 
+        "oep-orbit:eccentricity": "0.08", 
+        "oep-star:mass": "1.09", 
+        "oep-orbit:semimajoraxis": "3.02", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": "0.054909", 
+        "oep-star:metallicity": "-0.11", 
+        "oep:name": "HD 25171 b"
+      }
+    }
+  ]
+}

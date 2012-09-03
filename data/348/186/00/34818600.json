@@ -1,0 +1,53 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818600, 
+      "properties": {
+        "oep-star:magV": "12.05", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HATS-1 b", 
+        "oep-star:rightascension": "11 42 06", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-23 21 17", 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/06/08", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": "85.6", 
+        "oep-star:radius": "1.038", 
+        "oep:description": "HATS-1 b is the first planet discovery of HATSouth, a global network of autonomous wide-field telescopes. ", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34818600, 
+        "woe:id": 34818600, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "303", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "1.855", 
+        "oep:id": "HATS-1 b", 
+        "oep:radius": "1.302", 
+        "oep-orbit:period": "3.446459", 
+        "oep-orbit:eccentricity": "0.12", 
+        "oep-star:mass": "0.986", 
+        "oep-orbit:semimajoraxis": "0.0444", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.000147", 
+        "oep-star:metallicity": "-0.06", 
+        "oep:name": [
+          "HATS-1 b", 
+          "2MASS J11420608-2321174 b", 
+          "GSC 6652-186 b"
+        ]
+      }
+    }
+  ]
+}

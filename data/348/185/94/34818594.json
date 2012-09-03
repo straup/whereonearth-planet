@@ -1,0 +1,58 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818594, 
+      "properties": {
+        "oep-star:magV": "12.262", 
+        "oep:new": [
+          "0", 
+          "0"
+        ], 
+        "oep:id_exoplaneteu": "HAT-P-36 b", 
+        "oep-star:rightascension": "12 33 04", 
+        "oep-star:magK": "10.603", 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+44 54 55", 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": "11.046", 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/01/04", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": "86.0", 
+        "oep-star:radius": "1.096", 
+        "oep:description": [
+          "HAT-P-36 b is a transiting planet that has been discovered by the HATNet collaboration. HATNet is a ground-based survey using standard telephoto lenses such as the Canon 11cm diameter f/1.8L. ", 
+          null
+        ], 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34818594, 
+        "woe:id": 34818594, 
+        "oep-star:magH": "10.723", 
+        "oep-star:distance": "317", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "1.832", 
+        "oep:id": "HAT-P-36 b", 
+        "oep:radius": "1.264", 
+        "oep-orbit:period": "1.327", 
+        "oep-orbit:eccentricity": "0.063", 
+        "oep-star:mass": "1.022", 
+        "oep-orbit:semimajoraxis": "0.0238", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": "0.26", 
+        "oep:name": [
+          "HAT-P-36 b", 
+          "2MASS 12330390+4454552"
+        ]
+      }
+    }
+  ]
+}

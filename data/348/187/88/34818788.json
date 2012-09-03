@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818788, 
+      "properties": {
+        "oep-star:magV": "5.77", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HD 30562 b", 
+        "oep-star:rightascension": "04 48 36", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-05 40 27", 
+        "oep-star:spectraltype": "F8V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "09/09/25", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2009", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "1.637", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34818788, 
+        "woe:id": 34818788, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "26.5", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "1.29", 
+        "oep:id": "HD 30562 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "1157", 
+        "oep-orbit:eccentricity": "0.76", 
+        "oep-star:mass": "1.219", 
+        "oep-orbit:semimajoraxis": "2.3", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.086792", 
+        "oep-star:metallicity": "0.243", 
+        "oep:name": "HD 30562 b"
+      }
+    }
+  ]
+}

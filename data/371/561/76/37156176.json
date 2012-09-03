@@ -1,0 +1,65 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 37156176, 
+      "properties": {
+        "oep-star:magV": null, 
+        "oep:new": [
+          "0", 
+          "0"
+        ], 
+        "oep:id_exoplaneteu": "Kepler-35(AB) b", 
+        "oep-star:rightascension": "19 37 59", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": [
+          "This is an artists conception of the planet Kepler-35 b orbiting a binary star. Illustration by Lynette Cook, http://extrasolar.spaceart.org.", 
+          null
+        ], 
+        "oep-star:declination": "+46 41 23", 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/01/11", 
+        "oep:image": [
+          "Kepler35b", 
+          null
+        ], 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": "90.76", 
+        "oep-star:radius": null, 
+        "oep:description": [
+          "Kepler-35(AB) b is a planet orbiting two sub solar-mass stars which are in a binary (therefore the name with AB). The Kepler team estimates that approximately 1% of all close binary stars have planets. This yields a galactic population of at least several million.", 
+          null
+        ], 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 37156176, 
+        "woe:id": 37156176, 
+        "oep-star:magH": null, 
+        "oep-star:distance": null, 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": "0.127", 
+        "oep:id": "Kepler-35(AB) b", 
+        "oep:radius": "0.728", 
+        "oep-orbit:period": "131.458", 
+        "oep-orbit:eccentricity": "0.042", 
+        "oep-star:mass": "1.68", 
+        "oep-orbit:semimajoraxis": "0.60347", 
+        "artisanal:foundry": "http://www.londonintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": null, 
+        "oep:name": [
+          "Kepler-35(AB) b", 
+          "KIC 9837578 b", 
+          "Kepler-35 b"
+        ]
+      }
+    }
+  ]
+}

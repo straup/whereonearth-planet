@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818524, 
+      "properties": {
+        "oep-star:magV": "9.16", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "AB Pic b", 
+        "oep-star:rightascension": "06 19 12", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": "This is a coronagraphic image of AB Pictoris. A planetary companion is visible on the lower left. It was optained with NACO on the VLT with an occulting mask on top of AB Pictoris. Credit: ESO.", 
+        "oep-star:declination": "-58 03 15", 
+        "oep-star:spectraltype": "K2 V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "10/12/06", 
+        "oep:image": "AB Pic", 
+        "oep:discoveryyear": "2005", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": null, 
+        "oep:description": "AB Pictoris is a star in the constellation of Pictor. Because of its high mass, the companion could be a planet or a brown dwarf.", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34818524, 
+        "woe:id": 34818524, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "47.3", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "imaging", 
+        "oep:mass": "13.5", 
+        "oep:id": "AB Pic b", 
+        "oep:radius": null, 
+        "oep-orbit:period": null, 
+        "oep-orbit:eccentricity": null, 
+        "oep-star:mass": null, 
+        "oep-orbit:semimajoraxis": "275", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "5.813953", 
+        "oep-star:metallicity": "-0.64", 
+        "oep:name": "AB Pic b"
+      }
+    }
+  ]
+}

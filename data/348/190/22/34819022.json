@@ -1,0 +1,58 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34819022, 
+      "properties": {
+        "oep-star:magV": null, 
+        "oep:new": "1", 
+        "oep:id_exoplaneteu": "Kepler-47(AB) b", 
+        "oep-star:rightascension": "19 41 11", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": "An artists depiction of the Kepler-47 system. Credit: NASA/JPL-Caltech/T. Pyle", 
+        "oep-star:declination": "+46 55 13", 
+        "oep-star:spectraltype": "G", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/08/28", 
+        "oep:image": "Kepler47", 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": "89.59", 
+        "oep-star:radius": "0.964", 
+        "oep:description": [
+          "Kepler-47(AB) is a multiplanetary system orbiting a binary star. This is the first system of its kind. One of the binary stars is a Sun-like star (quoted here), the other one is roughly one-third its size. The orbital period of the binary is 7.45 days.", 
+          null
+        ], 
+        "oep:multiplicity": "2", 
+        "artisanal:id": 34819022, 
+        "woe:id": 34819022, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "1189", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep:mass": null, 
+        "oep:id": "Kepler-47(AB) b", 
+        "oep:radius": "0.27156828", 
+        "oep-orbit:period": "49.514", 
+        "oep-orbit:eccentricity": "0.0", 
+        "oep-star:mass": "1.043", 
+        "oep-orbit:semimajoraxis": "0.2956", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": null, 
+        "oep:name": [
+          "Kepler-47(AB) b", 
+          "KIC 10020423 b", 
+          "KOI 3154 b", 
+          "2MASS J19411149+4655136 b", 
+          "Kepler-47 b"
+        ]
+      }
+    }
+  ]
+}

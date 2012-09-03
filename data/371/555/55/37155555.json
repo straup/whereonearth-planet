@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 37155555, 
+      "properties": {
+        "oep-star:magV": "8.12", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HD 145377 b", 
+        "oep-star:rightascension": "16 11 36", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-27 04 41", 
+        "oep-star:spectraltype": "G3V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "08/10/28", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2008", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "1.14", 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 37155555, 
+        "woe:id": 37155555, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "57.7", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "5.76", 
+        "oep:id": "HD 145377 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "103.95", 
+        "oep-orbit:eccentricity": "0.307", 
+        "oep-star:mass": "1.12", 
+        "oep-orbit:semimajoraxis": "0.45", 
+        "artisanal:foundry": "http://www.londonintegers.com/", 
+        "oep-star:angulardistance": "0.007799", 
+        "oep-star:metallicity": "0.12", 
+        "oep:name": "HD 145377 b"
+      }
+    }
+  ]
+}

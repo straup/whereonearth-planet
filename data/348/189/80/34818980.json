@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34818980, 
+      "properties": {
+        "oep-star:magV": "10.36", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "HIP 70849 b", 
+        "oep-star:rightascension": "14 29 19", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-46 27 50", 
+        "oep-star:spectraltype": "K7V", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "11/07/05", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2009", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": null, 
+        "oep:description": null, 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34818980, 
+        "woe:id": 34818980, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "24", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "9", 
+        "oep:id": "HIP 70849 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "10000", 
+        "oep-orbit:eccentricity": "0.6", 
+        "oep-star:mass": "0.63", 
+        "oep-orbit:semimajoraxis": "10", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.416667", 
+        "oep-star:metallicity": null, 
+        "oep:name": "HIP 70849 b"
+      }
+    }
+  ]
+}

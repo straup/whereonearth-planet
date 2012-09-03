@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34819070, 
+      "properties": {
+        "oep-star:magV": null, 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "MOA-bin-1 b", 
+        "oep-star:rightascension": "17 51 10", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-29 47 38", 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": null, 
+        "oep-star:magI": "23", 
+        "oep:lastupdate": "12/03/22", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": null, 
+        "oep:description": "This planet has been discovered in data from the 2006-2007 MOA project by Bennett et al (2012). It is the first planetary event in which the stellar host is only detected through binary microlensing events. Note that the discovery paper has not been published in a peer-reviewed journal yet. ", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34819070, 
+        "woe:id": 34819070, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "5100", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "microlensing", 
+        "oep:mass": "3.7", 
+        "oep:id": "MOA-bin-1 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": null, 
+        "oep-orbit:eccentricity": null, 
+        "oep-star:mass": "0.75", 
+        "oep-orbit:semimajoraxis": "8.3", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": "0.001627", 
+        "oep-star:metallicity": null, 
+        "oep:name": "MOA-bin-1 b"
+      }
+    }
+  ]
+}
