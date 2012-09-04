@@ -100,7 +100,8 @@
         "alias_UNK_S": [
           "Dunya"
         ], 
-        "parent_woeid": 0, 
+        "woe:id": 1,
+	"placetype": "planet",
         "alias_UNK_Q": [
           "D\u00fcnya"
         ], 
