@@ -1,0 +1,816 @@
+exoplanet_id,name,woeid,foundry
+0,Earth,1,http://developer.yahoo.com/geo/geoplanet/
+11 Com b,11 Com b,34818498,http://www.missionintegers.com/
+11 UMi b,11 UMi b,34818500,http://www.missionintegers.com/
+16 Cyg B b,16 Cyg B b,34818502,http://www.missionintegers.com/
+18 Del b,18 Del b,34818504,http://www.missionintegers.com/
+24 Sex b,24 Sex b,34818506,http://www.missionintegers.com/
+2M 044144 b,2M 044144 b,34818508,http://www.missionintegers.com/
+2M 2140+16 b,2M 2140+16 b,34818510,http://www.missionintegers.com/
+30 Ari B b,30 Ari B b,34818512,http://www.missionintegers.com/
+47 Uma b,47 Uma b,34818514,http://www.missionintegers.com/
+55 Cnc e,55 Cnc e,34818516,http://www.missionintegers.com/
+55 Cnc f,55 Cnc f,34818518,http://www.missionintegers.com/
+6 Lyn b,6 Lyn b,34818520,http://www.missionintegers.com/
+91 Aqr b,91 Aqr b,34818522,http://www.missionintegers.com/
+AB Pic b,AB Pic b,34818524,http://www.missionintegers.com/
+BD-082823 b,BD-082823 b,34818526,http://www.missionintegers.com/
+BD-10 3166 b,BD-10 3166 b,34818528,http://www.missionintegers.com/
+BD-17 63 b,BD-17 63 b,34818530,http://www.missionintegers.com/
+BD14 4559 b,BD14 4559 b,34818532,http://www.missionintegers.com/
+BD20 2457 b,BD20 2457 b,34818534,http://www.missionintegers.com/
+beta Pic b,beta Pic b,34818536,http://www.missionintegers.com/
+CoRoT-11 b,CoRoT-11 b,34818538,http://www.missionintegers.com/
+CoRoT-12 b,CoRoT-12 b,34818540,http://www.missionintegers.com/
+CoRoT-16 b,CoRoT-16 b,34818542,http://www.missionintegers.com/
+CoRoT-23 b,CoRoT-23 b,34818544,http://www.missionintegers.com/
+CoRoT-4 b,CoRoT-4 b,34818546,http://www.missionintegers.com/
+CoRoT-7 b,CoRoT-7 b,34818548,http://www.missionintegers.com/
+CT Cha b,CT Cha b,34818550,http://www.missionintegers.com/
+DP Leo b,DP Leo b,34818552,http://www.missionintegers.com/
+gamma 1 Leo b,gamma 1 Leo b,34818554,http://www.missionintegers.com/
+gamma Cephei b,gamma Cephei b,34818556,http://www.missionintegers.com/
+Gliese 176 b,Gliese 176 b,34818558,http://www.missionintegers.com/
+Gliese 3021 b,Gliese 3021 b,34818560,http://www.missionintegers.com/
+Gliese 3470 b,Gliese 3470 b,34818562,http://www.missionintegers.com/
+Gliese 433 b,Gliese 433 b,34818564,http://www.missionintegers.com/
+Gliese 436 b,Gliese 436 b,34818566,http://www.missionintegers.com/
+Gliese 581 b,Gliese 581 b,34818568,http://www.missionintegers.com/
+Gliese 581 c,Gliese 581 c,34818570,http://www.missionintegers.com/
+Gliese 667C b,Gliese 667C b,34818572,http://www.missionintegers.com/
+Gliese 832 b,Gliese 832 b,34818574,http://www.missionintegers.com/
+Gliese 876 b,Gliese 876 b,34818576,http://www.missionintegers.com/
+Gliese 876 d,Gliese 876 d,34818578,http://www.missionintegers.com/
+Gliese 876 e,Gliese 876 e,34818580,http://www.missionintegers.com/
+HAT-P-1 b,HAT-P-1 b,34818582,http://www.missionintegers.com/
+HAT-P-11 b,HAT-P-11 b,34818584,http://www.missionintegers.com/
+HAT-P-15 b,HAT-P-15 b,34818586,http://www.missionintegers.com/
+HAT-P-18 b,HAT-P-18 b,34818588,http://www.missionintegers.com/
+HAT-P-25 b,HAT-P-25 b,34818590,http://www.missionintegers.com/
+HAT-P-29 b,HAT-P-29 b,34818592,http://www.missionintegers.com/
+HAT-P-36 b,HAT-P-36 b,34818594,http://www.missionintegers.com/
+HAT-P-37 b,HAT-P-37 b,34818596,http://www.missionintegers.com/
+HAT-P-40 b,HAT-P-40 b,34818598,http://www.missionintegers.com/
+HATS-1 b,HATS-1 b,34818600,http://www.missionintegers.com/
+HD 10180 c,HD 10180 c,34818602,http://www.missionintegers.com/
+HD 10180 e,HD 10180 e,34818604,http://www.missionintegers.com/
+HD 10180 f,HD 10180 f,34818606,http://www.missionintegers.com/
+HD 10180 g,HD 10180 g,34818608,http://www.missionintegers.com/
+HD 104985 b,HD 104985 b,34818610,http://www.missionintegers.com/
+HD 106515A b,HD 106515A b,34818612,http://www.missionintegers.com/
+HD 108863 b,HD 108863 b,34818614,http://www.missionintegers.com/
+HD 110014 b,HD 110014 b,34818616,http://www.missionintegers.com/
+HD 113538 b,HD 113538 b,34818618,http://www.missionintegers.com/
+HD 114386 c,HD 114386 c,34818620,http://www.missionintegers.com/
+HD 114729 b,HD 114729 b,34818622,http://www.missionintegers.com/
+HD 11506 b,HD 11506 b,34818624,http://www.missionintegers.com/
+HD 117618 b,HD 117618 b,34818626,http://www.missionintegers.com/
+HD 118203 b,HD 118203 b,34818628,http://www.missionintegers.com/
+HD 11964 c,HD 11964 c,34818630,http://www.missionintegers.com/
+HD 122430 b,HD 122430 b,34818632,http://www.missionintegers.com/
+HD 125612 b,HD 125612 b,34818634,http://www.missionintegers.com/
+HD 125612 d,HD 125612 d,34818636,http://www.missionintegers.com/
+HD 126525 b,HD 126525 b,34818638,http://www.missionintegers.com/
+HD 128311 b,HD 128311 b,34818640,http://www.missionintegers.com/
+HD 130322 b,HD 130322 b,34818642,http://www.missionintegers.com/
+HD 13189 b,HD 13189 b,34818644,http://www.missionintegers.com/
+HD 132406 b,HD 132406 b,34818646,http://www.missionintegers.com/
+HD 134060 c,HD 134060 c,34818648,http://www.missionintegers.com/
+HD 134606 b,HD 134606 b,34818650,http://www.missionintegers.com/
+HD 134606 c,HD 134606 c,34818652,http://www.missionintegers.com/
+HD 134606 d,HD 134606 d,34818654,http://www.missionintegers.com/
+HD 134987 c,HD 134987 c,34818656,http://www.missionintegers.com/
+HD 136352 d,HD 136352 d,34818658,http://www.missionintegers.com/
+HD 137388 b,HD 137388 b,34818660,http://www.missionintegers.com/
+HD 142022 A b,HD 142022 A b,34818662,http://www.missionintegers.com/
+HD 142245 b,HD 142245 b,34818664,http://www.missionintegers.com/
+HD 142415 b,HD 142415 b,34818666,http://www.missionintegers.com/
+HD 149143 b,HD 149143 b,34818668,http://www.missionintegers.com/
+HD 1502 b,HD 1502 b,34818670,http://www.missionintegers.com/
+HD 150433 b,HD 150433 b,34818672,http://www.missionintegers.com/
+HD 150706 b,HD 150706 b,34818674,http://www.missionintegers.com/
+HD 152079 b,HD 152079 b,34818676,http://www.missionintegers.com/
+HD 152581 b,HD 152581 b,34818678,http://www.missionintegers.com/
+HD 153950 b,HD 153950 b,34818680,http://www.missionintegers.com/
+HD 154088 b,HD 154088 b,34818682,http://www.missionintegers.com/
+HD 154857 b,HD 154857 b,34818684,http://www.missionintegers.com/
+HD 155358 c,HD 155358 c,34818686,http://www.missionintegers.com/
+HD 156279 b,HD 156279 b,34818688,http://www.missionintegers.com/
+HD 157172 b,HD 157172 b,34818690,http://www.missionintegers.com/
+HD 159868 b,HD 159868 b,34818692,http://www.missionintegers.com/
+HD 159868 c,HD 159868 c,34818694,http://www.missionintegers.com/
+HD 16175 b,HD 16175 b,34818696,http://www.missionintegers.com/
+HD 162020 b,HD 162020 b,34818698,http://www.missionintegers.com/
+HD 16417 b,HD 16417 b,34818700,http://www.missionintegers.com/
+HD 164922 b,HD 164922 b,34818702,http://www.missionintegers.com/
+HD 166724 b,HD 166724 b,34818704,http://www.missionintegers.com/
+HD 168443 b,HD 168443 b,34818706,http://www.missionintegers.com/
+HD 17092 b,HD 17092 b,34818708,http://www.missionintegers.com/
+HD 171028 b,HD 171028 b,34818710,http://www.missionintegers.com/
+HD 175541 b,HD 175541 b,34818712,http://www.missionintegers.com/
+HD 177830 c,HD 177830 c,34818714,http://www.missionintegers.com/
+HD 180314 b,HD 180314 b,34818716,http://www.missionintegers.com/
+HD 181342 b,HD 181342 b,34818718,http://www.missionintegers.com/
+HD 181433 b,HD 181433 b,34818720,http://www.missionintegers.com/
+HD 181433 d,HD 181433 d,34818722,http://www.missionintegers.com/
+HD 187085 b,HD 187085 b,34818724,http://www.missionintegers.com/
+HD 18742 b,HD 18742 b,34818726,http://www.missionintegers.com/
+HD 189733 b,HD 189733 b,34818728,http://www.missionintegers.com/
+HD 190360 c,HD 190360 c,34818730,http://www.missionintegers.com/
+HD 190647 b,HD 190647 b,34818732,http://www.missionintegers.com/
+HD 192263 b,HD 192263 b,34818734,http://www.missionintegers.com/
+HD 195019 b,HD 195019 b,34818736,http://www.missionintegers.com/
+HD 196885 A b,HD 196885 A b,34818738,http://www.missionintegers.com/
+HD 200964 b,HD 200964 b,34818740,http://www.missionintegers.com/
+HD 200964 c,HD 200964 c,34818742,http://www.missionintegers.com/
+HD 20367 b,HD 20367 b,34818744,http://www.missionintegers.com/
+HD 2039 b,HD 2039 b,34818746,http://www.missionintegers.com/
+HD 204313 b,HD 204313 b,34818748,http://www.missionintegers.com/
+HD 20782 b,HD 20782 b,34818750,http://www.missionintegers.com/
+HD 207832 b,HD 207832 b,34818752,http://www.missionintegers.com/
+HD 20794 b,HD 20794 b,34818754,http://www.missionintegers.com/
+HD 208487 b,HD 208487 b,34818756,http://www.missionintegers.com/
+HD 20868 b,HD 20868 b,34818758,http://www.missionintegers.com/
+HD 212301 b,HD 212301 b,34818760,http://www.missionintegers.com/
+HD 215152 b,HD 215152 b,34818762,http://www.missionintegers.com/
+HD 215152 c,HD 215152 c,34818764,http://www.missionintegers.com/
+HD 215456 c,HD 215456 c,34818766,http://www.missionintegers.com/
+HD 216435 b,HD 216435 b,34818768,http://www.missionintegers.com/
+HD 216437 b,HD 216437 b,34818770,http://www.missionintegers.com/
+HD 21693 b,HD 21693 b,34818772,http://www.missionintegers.com/
+HD 219828 b,HD 219828 b,34818774,http://www.missionintegers.com/
+HD 220773 b,HD 220773 b,34818776,http://www.missionintegers.com/
+HD 221287 b,HD 221287 b,34818778,http://www.missionintegers.com/
+HD 222582 b,HD 222582 b,34818780,http://www.missionintegers.com/
+HD 231701 b,HD 231701 b,34818782,http://www.missionintegers.com/
+HD 240237 b,HD 240237 b,34818784,http://www.missionintegers.com/
+HD 28678 b,HD 28678 b,34818786,http://www.missionintegers.com/
+HD 30562 b,HD 30562 b,34818788,http://www.missionintegers.com/
+HD 31253 b,HD 31253 b,34818790,http://www.missionintegers.com/
+HD 31527 b,HD 31527 b,34818792,http://www.missionintegers.com/
+HD 31527 c,HD 31527 c,34818794,http://www.missionintegers.com/
+HD 31527 d,HD 31527 d,34818796,http://www.missionintegers.com/
+HD 32518 b,HD 32518 b,34818798,http://www.missionintegers.com/
+HD 33142 b,HD 33142 b,34818800,http://www.missionintegers.com/
+HD 37124 b,HD 37124 b,34818802,http://www.missionintegers.com/
+HD 37124 d,HD 37124 d,34818804,http://www.missionintegers.com/
+HD 37605 b,HD 37605 b,34818806,http://www.missionintegers.com/
+HD 39194 d,HD 39194 d,34818808,http://www.missionintegers.com/
+HD 40307 b,HD 40307 b,34818810,http://www.missionintegers.com/
+HD 40307 c,HD 40307 c,34818812,http://www.missionintegers.com/
+HD 41004 A b,HD 41004 A b,34818814,http://www.missionintegers.com/
+HD 41004 B b,HD 41004 B b,34818816,http://www.missionintegers.com/
+HD 4113 b,HD 4113 b,34818818,http://www.missionintegers.com/
+HD 4203 b,HD 4203 b,34818820,http://www.missionintegers.com/
+HD 4308 b,HD 4308 b,34818822,http://www.missionintegers.com/
+HD 44219 b,HD 44219 b,34818824,http://www.missionintegers.com/
+HD 45184 b,HD 45184 b,34818826,http://www.missionintegers.com/
+HD 45652 b,HD 45652 b,34818828,http://www.missionintegers.com/
+HD 47186 c,HD 47186 c,34818830,http://www.missionintegers.com/
+HD 51608 c,HD 51608 c,34818832,http://www.missionintegers.com/
+HD 62509 b,HD 62509 b,34818834,http://www.missionintegers.com/
+HD 63454 b,HD 63454 b,34818836,http://www.missionintegers.com/
+HD 6434 b,HD 6434 b,34818838,http://www.missionintegers.com/
+HD 65216 b,HD 65216 b,34818840,http://www.missionintegers.com/
+HD 66428 b,HD 66428 b,34818842,http://www.missionintegers.com/
+HD 69830 b,HD 69830 b,34818844,http://www.missionintegers.com/
+HD 69830 c,HD 69830 c,34818846,http://www.missionintegers.com/
+HD 69830 d,HD 69830 d,34818848,http://www.missionintegers.com/
+HD 72659 b,HD 72659 b,34818850,http://www.missionintegers.com/
+HD 73526 b,HD 73526 b,34818852,http://www.missionintegers.com/
+HD 73526 c,HD 73526 c,34818854,http://www.missionintegers.com/
+HD 73534 b,HD 73534 b,34818856,http://www.missionintegers.com/
+42 Dra b,42 Dra b,34818858,http://www.missionintegers.com/
+47 Uma c,47 Uma c,34818860,http://www.missionintegers.com/
+61 Vir b,61 Vir b,34818862,http://www.missionintegers.com/
+BD-082823 c,BD-082823 c,34818864,http://www.missionintegers.com/
+CoRoT-13 b,CoRoT-13 b,34818866,http://www.missionintegers.com/
+CoRoT-20 b,CoRoT-20 b,34818868,http://www.missionintegers.com/
+CoRoT-3 b,CoRoT-3 b,34818870,http://www.missionintegers.com/
+DH Tau b,DH Tau b,34818872,http://www.missionintegers.com/
+Gliese 649 b,Gliese 649 b,34818874,http://www.missionintegers.com/
+Gliese 674 b,Gliese 674 b,34818876,http://www.missionintegers.com/
+Gliese 876 c,Gliese 876 c,34818878,http://www.missionintegers.com/
+HAT-P-23 b,HAT-P-23 b,34818880,http://www.missionintegers.com/
+HAT-P-33 b,HAT-P-33 b,34818882,http://www.missionintegers.com/
+HAT-P-34 b,HAT-P-34 b,34818884,http://www.missionintegers.com/
+HAT-P-41 b,HAT-P-41 b,34818886,http://www.missionintegers.com/
+HAT-P-5 b,HAT-P-5 b,34818888,http://www.missionintegers.com/
+HAT-P-7 b,HAT-P-7 b,34818890,http://www.missionintegers.com/
+HD 102272 b,HD 102272 b,34818892,http://www.missionintegers.com/
+HD 106252 b,HD 106252 b,34818894,http://www.missionintegers.com/
+HD 114386 b,HD 114386 b,34818896,http://www.missionintegers.com/
+HD 114783 b,HD 114783 b,34818898,http://www.missionintegers.com/
+HD 12661 b,HD 12661 b,34818900,http://www.missionintegers.com/
+HD 131496 b,HD 131496 b,34818902,http://www.missionintegers.com/
+HD 132563B b,HD 132563B b,34818904,http://www.missionintegers.com/
+HD 139357 b,HD 139357 b,34818906,http://www.missionintegers.com/
+HD 156411 b,HD 156411 b,34818908,http://www.missionintegers.com/
+HD 164509 b,HD 164509 b,34818910,http://www.missionintegers.com/
+HD 164604 b,HD 164604 b,34818912,http://www.missionintegers.com/
+HD 171238 b,HD 171238 b,34818914,http://www.missionintegers.com/
+HD 180902 b,HD 180902 b,34818916,http://www.missionintegers.com/
+HD 183263 c,HD 183263 c,34818918,http://www.missionintegers.com/
+HD 188015 b,HD 188015 b,34818920,http://www.missionintegers.com/
+HD 20003 b,HD 20003 b,34818922,http://www.missionintegers.com/
+HD 20781 c,HD 20781 c,34818924,http://www.missionintegers.com/
+HD 212771 b,HD 212771 b,34818926,http://www.missionintegers.com/
+HD 215497 c,HD 215497 c,34818928,http://www.missionintegers.com/
+HD 23596 b,HD 23596 b,34818930,http://www.missionintegers.com/
+HD 40307 d,HD 40307 d,34818932,http://www.missionintegers.com/
+HD 59686 b,HD 59686 b,34818934,http://www.missionintegers.com/
+HD 63765 b,HD 63765 b,34818936,http://www.missionintegers.com/
+HD 6718 b,HD 6718 b,34818938,http://www.missionintegers.com/
+HD 74156 b,HD 74156 b,34818940,http://www.missionintegers.com/
+HD 74156 c,HD 74156 c,34818942,http://www.missionintegers.com/
+HD 75898 b,HD 75898 b,34818944,http://www.missionintegers.com/
+HD 76700 b,HD 76700 b,34818946,http://www.missionintegers.com/
+HD 77338 b,HD 77338 b,34818948,http://www.missionintegers.com/
+HD 83443 b,HD 83443 b,34818950,http://www.missionintegers.com/
+HD 85390 b,HD 85390 b,34818952,http://www.missionintegers.com/
+HD 8574 b,HD 8574 b,34818954,http://www.missionintegers.com/
+HD 86226 b,HD 86226 b,34818956,http://www.missionintegers.com/
+HD 8673 b,HD 8673 b,34818958,http://www.missionintegers.com/
+HD 89307 b,HD 89307 b,34818960,http://www.missionintegers.com/
+HD 89744 b,HD 89744 b,34818962,http://www.missionintegers.com/
+HD 90156 b,HD 90156 b,34818964,http://www.missionintegers.com/
+HD 92788 b,HD 92788 b,34818966,http://www.missionintegers.com/
+HD 93083 b,HD 93083 b,34818968,http://www.missionintegers.com/
+HD 93385 b,HD 93385 b,34818970,http://www.missionintegers.com/
+HD 96127 b,HD 96127 b,34818972,http://www.missionintegers.com/
+HD 96167 b,HD 96167 b,34818974,http://www.missionintegers.com/
+HD 99706 b,HD 99706 b,34818976,http://www.missionintegers.com/
+HIP 12961 b,HIP 12961 b,34818978,http://www.missionintegers.com/
+HIP 70849 b,HIP 70849 b,34818980,http://www.missionintegers.com/
+HIP 75458 b,HIP 75458 b,34818982,http://www.missionintegers.com/
+HR 8799 e,HR 8799 e,34818984,http://www.missionintegers.com/
+HW Vir (AB) b,HW Vir (AB) b,34818986,http://www.missionintegers.com/
+KELT-2A b,KELT-2A b,34818988,http://www.missionintegers.com/
+Kepler-11 c,Kepler-11 c,34818990,http://www.missionintegers.com/
+Kepler-12 b,Kepler-12 b,34818992,http://www.missionintegers.com/
+Kepler-19 b,Kepler-19 b,34818994,http://www.missionintegers.com/
+Kepler-20 e,Kepler-20 e,34818996,http://www.missionintegers.com/
+Kepler-23 c,Kepler-23 c,34818998,http://www.missionintegers.com/
+Kepler-24 c,Kepler-24 c,34819000,http://www.missionintegers.com/
+Kepler-26 b,Kepler-26 b,34819002,http://www.missionintegers.com/
+Kepler-27 b,Kepler-27 b,34819004,http://www.missionintegers.com/
+Kepler-27 c,Kepler-27 c,34819006,http://www.missionintegers.com/
+Kepler-28 c,Kepler-28 c,34819008,http://www.missionintegers.com/
+Kepler-29 c,Kepler-29 c,34819010,http://www.missionintegers.com/
+Kepler-31 b,Kepler-31 b,34819012,http://www.missionintegers.com/
+Kepler-32 c,Kepler-32 c,34819014,http://www.missionintegers.com/
+Kepler-33 c,Kepler-33 c,34819016,http://www.missionintegers.com/
+Kepler-36 c,Kepler-36 c,34819018,http://www.missionintegers.com/
+Kepler-4 b,Kepler-4 b,34819020,http://www.missionintegers.com/
+Kepler-47(AB) b,Kepler-47(AB) b,34819022,http://www.missionintegers.com/
+Kepler-47(AB) c,Kepler-47(AB) c,34819024,http://www.missionintegers.com/
+Kepler-5 b,Kepler-5 b,34819026,http://www.missionintegers.com/
+Kepler-51 c,Kepler-51 c,34819028,http://www.missionintegers.com/
+Kepler-54 c,Kepler-54 c,34819030,http://www.missionintegers.com/
+Kepler-55 c,Kepler-55 c,34819032,http://www.missionintegers.com/
+Kepler-56 c,Kepler-56 c,34819034,http://www.missionintegers.com/
+Kepler-58 b,Kepler-58 b,34819036,http://www.missionintegers.com/
+Kepler-58 c,Kepler-58 c,34819038,http://www.missionintegers.com/
+Kepler-6 b,Kepler-6 b,34819040,http://www.missionintegers.com/
+Kepler-60 b,Kepler-60 b,34819042,http://www.missionintegers.com/
+KOI-206 b,KOI-206 b,34819044,http://www.missionintegers.com/
+KOI-55 b,KOI-55 b,34819046,http://www.missionintegers.com/
+KOI-730 b,KOI-730 b,34819048,http://www.missionintegers.com/
+KOI-730 c,KOI-730 c,34819050,http://www.missionintegers.com/
+KOI-730 d,KOI-730 d,34819052,http://www.missionintegers.com/
+KOI-730 e,KOI-730 e,34819054,http://www.missionintegers.com/
+KOI-872 b,KOI-872 b,34819056,http://www.missionintegers.com/
+KOI-961 d,KOI-961 d,34819058,http://www.missionintegers.com/
+ksi Aql b,ksi Aql b,34819060,http://www.missionintegers.com/
+MOA-2007-BLG-192-L b,MOA-2007-BLG-192-L b,34819062,http://www.missionintegers.com/
+MOA-2007-BLG-400-L b,MOA-2007-BLG-400-L b,34819064,http://www.missionintegers.com/
+MOA-2009-BLG-319 b,MOA-2009-BLG-319 b,34819066,http://www.missionintegers.com/
+MOA-2011-BLG-293L b,MOA-2011-BLG-293L b,34819068,http://www.missionintegers.com/
+MOA-bin-1 b,MOA-bin-1 b,34819070,http://www.missionintegers.com/
+mu Ara b,mu Ara b,34819072,http://www.missionintegers.com/
+OGLE-TR-10 b,OGLE-TR-10 b,34819074,http://www.missionintegers.com/
+OGLE-TR-111 b,OGLE-TR-111 b,34819076,http://www.missionintegers.com/
+OGLE-TR-113 b,OGLE-TR-113 b,34819078,http://www.missionintegers.com/
+OGLE2-TR-L9 b,OGLE2-TR-L9 b,34819080,http://www.missionintegers.com/
+SWEEPS-04,SWEEPS-04,34819082,http://www.missionintegers.com/
+tau Boo b,tau Boo b,34819084,http://www.missionintegers.com/
+TrES-2,TrES-2,34819086,http://www.missionintegers.com/
+TrES-4,TrES-4,34819088,http://www.missionintegers.com/
+TrES-5,TrES-5,34819090,http://www.missionintegers.com/
+ups And d,ups And d,34819092,http://www.missionintegers.com/
+V391 Peg b,V391 Peg b,34819094,http://www.missionintegers.com/
+WASP-10 b,WASP-10 b,34819096,http://www.missionintegers.com/
+WASP-14 b,WASP-14 b,34819098,http://www.missionintegers.com/
+WASP-16 b,WASP-16 b,34819100,http://www.missionintegers.com/
+WASP-17 b,WASP-17 b,34819102,http://www.missionintegers.com/
+WASP-2 b,WASP-2 b,34819104,http://www.missionintegers.com/
+WASP-20 b,WASP-20 b,34819106,http://www.missionintegers.com/
+WASP-28 b,WASP-28 b,34819108,http://www.missionintegers.com/
+WASP-29 b,WASP-29 b,34819110,http://www.missionintegers.com/
+WASP-33 b,WASP-33 b,34819112,http://www.missionintegers.com/
+WASP-34 b,WASP-34 b,34819114,http://www.missionintegers.com/
+WASP-38 b,WASP-38 b,34819116,http://www.missionintegers.com/
+WASP-39 b,WASP-39 b,34819118,http://www.missionintegers.com/
+WASP-42 b,WASP-42 b,34819120,http://www.missionintegers.com/
+WASP-43 b,WASP-43 b,34819122,http://www.missionintegers.com/
+WASP-44 b,WASP-44 b,34819124,http://www.missionintegers.com/
+WASP-45 b,WASP-45 b,34819126,http://www.missionintegers.com/
+WASP-47 b,WASP-47 b,34819128,http://www.missionintegers.com/
+WASP-5 b,WASP-5 b,34819130,http://www.missionintegers.com/
+WASP-52 b,WASP-52 b,34819132,http://www.missionintegers.com/
+WASP-54 b,WASP-54 b,34819134,http://www.missionintegers.com/
+WASP-59 b,WASP-59 b,34819136,http://www.missionintegers.com/
+WASP-60 b,WASP-60 b,34819138,http://www.missionintegers.com/
+WASP-68 b,WASP-68 b,34819140,http://www.missionintegers.com/
+WASP-7 b,WASP-7 b,34819142,http://www.missionintegers.com/
+WASP-78 b,WASP-78 b,34819144,http://www.missionintegers.com/
+WASP-8 b,WASP-8 b,34819146,http://www.missionintegers.com/
+XO-1 b,XO-1 b,34819148,http://www.missionintegers.com/
+XO-3 b,XO-3 b,34819150,http://www.missionintegers.com/
+14 And b,14 And b,35309707,http://www.brooklynintegers.com/
+1RXS1609 b,1RXS1609 b,35309711,http://www.brooklynintegers.com/
+24 Sex c,24 Sex c,35309713,http://www.brooklynintegers.com/
+2M 0746+20 b,2M 0746+20 b,35309715,http://www.brooklynintegers.com/
+2M1207 b,2M1207 b,35309717,http://www.brooklynintegers.com/
+4 Uma b,4 Uma b,35309719,http://www.brooklynintegers.com/
+47 Uma d,47 Uma d,35309721,http://www.brooklynintegers.com/
+61 Vir d,61 Vir d,35309723,http://www.brooklynintegers.com/
+70 Vir b,70 Vir b,35309725,http://www.brooklynintegers.com/
+81 Cet b,81 Cet b,35309729,http://www.brooklynintegers.com/
+alf Ari b,alf Ari b,35309731,http://www.brooklynintegers.com/
+BD +48 738 b,BD +48 738 b,35309733,http://www.brooklynintegers.com/
+BD20 2457 c,BD20 2457 c,35309735,http://www.brooklynintegers.com/
+CoRoT-1 b,CoRoT-1 b,35309737,http://www.brooklynintegers.com/
+CoRoT-10 b,CoRoT-10 b,35309739,http://www.brooklynintegers.com/
+CoRoT-14 b,CoRoT-14 b,35309741,http://www.brooklynintegers.com/
+CoRoT-21 b,CoRoT-21 b,35309743,http://www.brooklynintegers.com/
+CoRoT-7 c,CoRoT-7 c,35309747,http://www.brooklynintegers.com/
+CoRoT-8 b,CoRoT-8 b,35309749,http://www.brooklynintegers.com/
+eps Eridani b,eps Eridani b,35309751,http://www.brooklynintegers.com/
+FU Tau b,FU Tau b,35309753,http://www.brooklynintegers.com/
+Gliese 1214 b,Gliese 1214 b,35309755,http://www.brooklynintegers.com/
+Gliese 179 b,Gliese 179 b,35309757,http://www.brooklynintegers.com/
+Gliese 317 b,Gliese 317 b,35309759,http://www.brooklynintegers.com/
+Gliese 3634 b,Gliese 3634 b,35309761,http://www.brooklynintegers.com/
+Gliese 436 c,Gliese 436 c,35309765,http://www.brooklynintegers.com/
+Gliese 581 e,Gliese 581 e,35309767,http://www.brooklynintegers.com/
+Gliese 785 c,Gliese 785 c,35309769,http://www.brooklynintegers.com/
+Gliese 849 b,Gliese 849 b,35309771,http://www.brooklynintegers.com/
+Gliese 86 b,Gliese 86 b,35309773,http://www.brooklynintegers.com/
+HAT-P-12 b,HAT-P-12 b,35309775,http://www.brooklynintegers.com/
+HAT-P-13 b,HAT-P-13 b,35309777,http://www.brooklynintegers.com/
+HAT-P-13 c,HAT-P-13 c,35309779,http://www.brooklynintegers.com/
+HAT-P-16 b,HAT-P-16 b,35309783,http://www.brooklynintegers.com/
+HAT-P-17 c,HAT-P-17 c,35309785,http://www.brooklynintegers.com/
+HAT-P-19 b,HAT-P-19 b,35309787,http://www.brooklynintegers.com/
+HAT-P-20 b,HAT-P-20 b,35309789,http://www.brooklynintegers.com/
+HAT-P-21 b,HAT-P-21 b,35309791,http://www.brooklynintegers.com/
+HAT-P-22 b,HAT-P-22 b,35309793,http://www.brooklynintegers.com/
+HAT-P-24 b,HAT-P-24 b,35309795,http://www.brooklynintegers.com/
+HAT-P-26 b,HAT-P-26 b,35309797,http://www.brooklynintegers.com/
+HAT-P-27,HAT-P-27,35309801,http://www.brooklynintegers.com/
+HAT-P-28 b,HAT-P-28 b,35309803,http://www.brooklynintegers.com/
+HAT-P-3 b,HAT-P-3 b,35309805,http://www.brooklynintegers.com/
+HAT-P-30,HAT-P-30,35309807,http://www.brooklynintegers.com/
+HAT-P-31 b,HAT-P-31 b,35309809,http://www.brooklynintegers.com/
+HAT-P-35 b,HAT-P-35 b,35309811,http://www.brooklynintegers.com/
+HAT-P-38 b,HAT-P-38 b,35309813,http://www.brooklynintegers.com/
+HAT-P-39 b,HAT-P-39 b,35309815,http://www.brooklynintegers.com/
+HAT-P-8 b,HAT-P-8 b,35309819,http://www.brooklynintegers.com/
+HAT-P-9 b,HAT-P-9 b,35309821,http://www.brooklynintegers.com/
+HD 100655 b,HD 100655 b,35309823,http://www.brooklynintegers.com/
+HD 100777 b,HD 100777 b,35309825,http://www.brooklynintegers.com/
+HD 102117 b,HD 102117 b,35309827,http://www.brooklynintegers.com/
+HD 102195 b,HD 102195 b,35309829,http://www.brooklynintegers.com/
+HD 102272 c,HD 102272 c,35309831,http://www.brooklynintegers.com/
+HD 102329 b,HD 102329 b,35309833,http://www.brooklynintegers.com/
+HD 102956 b,HD 102956 b,35309837,http://www.brooklynintegers.com/
+HD 104067 b,HD 104067 b,35309839,http://www.brooklynintegers.com/
+HD 106270 b,HD 106270 b,35309841,http://www.brooklynintegers.com/
+HD 107148 b,HD 107148 b,35309843,http://www.brooklynintegers.com/
+HD 108147 b,HD 108147 b,35309845,http://www.brooklynintegers.com/
+HD 108874 b,HD 108874 b,35309847,http://www.brooklynintegers.com/
+HD 108874 c,HD 108874 c,35309849,http://www.brooklynintegers.com/
+HD 109246 b,HD 109246 b,35309851,http://www.brooklynintegers.com/
+HD 109749 b,HD 109749 b,35309855,http://www.brooklynintegers.com/
+HD 113538 c,HD 113538 c,35309857,http://www.brooklynintegers.com/
+HD 11506 c,HD 11506 c,35309859,http://www.brooklynintegers.com/
+HD 116029 b,HD 116029 b,35309861,http://www.brooklynintegers.com/
+HD 117207 b,HD 117207 b,35309863,http://www.brooklynintegers.com/
+HD 11964 b,HD 11964 b,35309865,http://www.brooklynintegers.com/
+HD 121504 b,HD 121504 b,35309867,http://www.brooklynintegers.com/
+HD 12661 c,HD 12661 c,35309869,http://www.brooklynintegers.com/
+HD 126614 b,HD 126614 b,35309873,http://www.brooklynintegers.com/
+HD 128311 c,HD 128311 c,35309875,http://www.brooklynintegers.com/
+HD 129445 b,HD 129445 b,35309877,http://www.brooklynintegers.com/
+HD 134060 b,HD 134060 b,35309879,http://www.brooklynintegers.com/
+HD 134987 b,HD 134987 b,35309881,http://www.brooklynintegers.com/
+HD 136352 b,HD 136352 b,35309883,http://www.brooklynintegers.com/
+HD 136352 c,HD 136352 c,35309885,http://www.brooklynintegers.com/
+HD 13808 b,HD 13808 b,35309887,http://www.brooklynintegers.com/
+HD 13808 c,HD 13808 c,35309891,http://www.brooklynintegers.com/
+HD 13931 b,HD 13931 b,35309893,http://www.brooklynintegers.com/
+HD 143361 b,HD 143361 b,35309895,http://www.brooklynintegers.com/
+HD 145457 b,HD 145457 b,35309897,http://www.brooklynintegers.com/
+HD 1461 b,HD 1461 b,35309899,http://www.brooklynintegers.com/
+HD 1461 c,HD 1461 c,35309901,http://www.brooklynintegers.com/
+HD 147018 b,HD 147018 b,35309903,http://www.brooklynintegers.com/
+HD 147513 b,HD 147513 b,35309905,http://www.brooklynintegers.com/
+HD 148156 b,HD 148156 b,35309909,http://www.brooklynintegers.com/
+HD 148427 b,HD 148427 b,35309911,http://www.brooklynintegers.com/
+HD 154672 b,HD 154672 b,35309913,http://www.brooklynintegers.com/
+HD 155358 b,HD 155358 b,35309915,http://www.brooklynintegers.com/
+HD 158038 b,HD 158038 b,35309917,http://www.brooklynintegers.com/
+HD 16141 b,HD 16141 b,35309919,http://www.brooklynintegers.com/
+HD 163607 b,HD 163607 b,35309921,http://www.brooklynintegers.com/
+HD 163607 c,HD 163607 c,35309923,http://www.brooklynintegers.com/
+HD 167042 b,HD 167042 b,35309927,http://www.brooklynintegers.com/
+HD 168443 c,HD 168443 c,35309929,http://www.brooklynintegers.com/
+HD 168746 b,HD 168746 b,35309931,http://www.brooklynintegers.com/
+HD 1690 b,HD 1690 b,35309933,http://www.brooklynintegers.com/
+HD 169830 b,HD 169830 b,35309935,http://www.brooklynintegers.com/
+HD 169830 c,HD 169830 c,35309937,http://www.brooklynintegers.com/
+HD 170469 b,HD 170469 b,35309939,http://www.brooklynintegers.com/
+HD 17156 b,HD 17156 b,35309941,http://www.brooklynintegers.com/
+HD 173416 b,HD 173416 b,35309945,http://www.brooklynintegers.com/
+HD 181433 c,HD 181433 c,35309947,http://www.brooklynintegers.com/
+HD 181720 b,HD 181720 b,35309949,http://www.brooklynintegers.com/
+HD 185269 b,HD 185269 b,35309951,http://www.brooklynintegers.com/
+HD 189567 b,HD 189567 b,35309953,http://www.brooklynintegers.com/
+HD 190360 b,HD 190360 b,35309955,http://www.brooklynintegers.com/
+HD 190984 b,HD 190984 b,35309957,http://www.brooklynintegers.com/
+HD 196050 b,HD 196050 b,35309959,http://www.brooklynintegers.com/
+HD 196067 b,HD 196067 b,35309963,http://www.brooklynintegers.com/
+HD 197037 b,HD 197037 b,35309965,http://www.brooklynintegers.com/
+HD 19994 b,HD 19994 b,35309967,http://www.brooklynintegers.com/
+HD 202206 b,HD 202206 b,35309969,http://www.brooklynintegers.com/
+HD 202206 c,HD 202206 c,35309971,http://www.brooklynintegers.com/
+HD 204313 c,HD 204313 c,35309973,http://www.brooklynintegers.com/
+HD 204313 d,HD 204313 d,35309975,http://www.brooklynintegers.com/
+HD 206610 b,HD 206610 b,35309977,http://www.brooklynintegers.com/
+HD 20781 b,HD 20781 b,35309981,http://www.brooklynintegers.com/
+HD 207832 c,HD 207832 c,35309983,http://www.brooklynintegers.com/
+HD 210702 b,HD 210702 b,35309985,http://www.brooklynintegers.com/
+HD 213240 b,HD 213240 b,35309987,http://www.brooklynintegers.com/
+HD 215456 b,HD 215456 b,35309989,http://www.brooklynintegers.com/
+HD 216770 b,HD 216770 b,35309991,http://www.brooklynintegers.com/
+HD 217107 c,HD 217107 c,35309993,http://www.brooklynintegers.com/
+HD 217786 b,HD 217786 b,35309995,http://www.brooklynintegers.com/
+HD 224693 b,HD 224693 b,35309999,http://www.brooklynintegers.com/
+HD 23079 b,HD 23079 b,35310001,http://www.brooklynintegers.com/
+HD 25171 b,HD 25171 b,35310003,http://www.brooklynintegers.com/
+HD 2638 b,HD 2638 b,35310005,http://www.brooklynintegers.com/
+HD 28185 b,HD 28185 b,35310007,http://www.brooklynintegers.com/
+HD 28254 b,HD 28254 b,35310009,http://www.brooklynintegers.com/
+HD 290327 b,HD 290327 b,35310011,http://www.brooklynintegers.com/
+HD 30177 b,HD 30177 b,35310013,http://www.brooklynintegers.com/
+HD 330075 b,HD 330075 b,35310017,http://www.brooklynintegers.com/
+HD 33283 b,HD 33283 b,35310019,http://www.brooklynintegers.com/
+HD 34445 b,HD 34445 b,35310021,http://www.brooklynintegers.com/
+HD 3651 b,HD 3651 b,35310023,http://www.brooklynintegers.com/
+HD 37124 c,HD 37124 c,35310025,http://www.brooklynintegers.com/
+HD 37605 c,HD 37605 c,35310027,http://www.brooklynintegers.com/
+HD 38529 b,HD 38529 b,35310029,http://www.brooklynintegers.com/
+HD 38529 c,HD 38529 c,35310031,http://www.brooklynintegers.com/
+HD 38801 b,HD 38801 b,35310035,http://www.brooklynintegers.com/
+HD 38858 b,HD 38858 b,35310037,http://www.brooklynintegers.com/
+HD 40979 b,HD 40979 b,35310039,http://www.brooklynintegers.com/
+HD 43691 b,HD 43691 b,35310041,http://www.brooklynintegers.com/
+HD 45350 b,HD 45350 b,35310043,http://www.brooklynintegers.com/
+HD 45364 b,HD 45364 b,35310045,http://www.brooklynintegers.com/
+HD 45364 c,HD 45364 c,35310047,http://www.brooklynintegers.com/
+HD 46375 b,HD 46375 b,35310049,http://www.brooklynintegers.com/
+HD 47186 b,HD 47186 b,35310053,http://www.brooklynintegers.com/
+HD 47536 b,HD 47536 b,35310055,http://www.brooklynintegers.com/
+HD 47536 c,HD 47536 c,35310057,http://www.brooklynintegers.com/
+HD 48265 b,HD 48265 b,35310059,http://www.brooklynintegers.com/
+HD 49674 b,HD 49674 b,35310061,http://www.brooklynintegers.com/
+HD 50499 b,HD 50499 b,35310063,http://www.brooklynintegers.com/
+HD 51608 b,HD 51608 b,35310065,http://www.brooklynintegers.com/
+HD 52265 b,HD 52265 b,35310067,http://www.brooklynintegers.com/
+HD 5319 b,HD 5319 b,35310071,http://www.brooklynintegers.com/
+HD 5891 b,HD 5891 b,35310073,http://www.brooklynintegers.com/
+HD 60532 b,HD 60532 b,35310075,http://www.brooklynintegers.com/
+HD 65216 c,HD 65216 c,35310077,http://www.brooklynintegers.com/
+HD 68988 b,HD 68988 b,35310079,http://www.brooklynintegers.com/
+HD 70573 b,HD 70573 b,35310081,http://www.brooklynintegers.com/
+HD 70642 b,HD 70642 b,35310083,http://www.brooklynintegers.com/
+HD 7199 b,HD 7199 b,35310085,http://www.brooklynintegers.com/
+HD 73256 b,HD 73256 b,35310089,http://www.brooklynintegers.com/
+HD 73267 b,HD 73267 b,35310091,http://www.brooklynintegers.com/
+HD 7449 c,HD 7449 c,35310093,http://www.brooklynintegers.com/
+14 Her b,14 Her b,35310095,http://www.brooklynintegers.com/
+2M 2206-20 b,2M 2206-20 b,35310097,http://www.brooklynintegers.com/
+51 Peg b,51 Peg b,35310099,http://www.brooklynintegers.com/
+55 Cnc b,55 Cnc b,35310101,http://www.brooklynintegers.com/
+61 Vir c,61 Vir c,35310103,http://www.brooklynintegers.com/
+CoRoT-18 b,CoRoT-18 b,35310107,http://www.brooklynintegers.com/
+CoRoT-19 b,CoRoT-19 b,35310109,http://www.brooklynintegers.com/
+CoRoT-2 b,CoRoT-2 b,35310111,http://www.brooklynintegers.com/
+CoRoT-9 b,CoRoT-9 b,35310113,http://www.brooklynintegers.com/
+GQ Lup b,GQ Lup b,35310115,http://www.brooklynintegers.com/
+GSC 06214-00210 b,GSC 06214-00210 b,35310117,http://www.brooklynintegers.com/
+HAT-P-14 b,HAT-P-14 b,35310119,http://www.brooklynintegers.com/
+HAT-P-6 b,HAT-P-6 b,35310121,http://www.brooklynintegers.com/
+HD 102365 b,HD 102365 b,35310125,http://www.brooklynintegers.com/
+HD 111232 b,HD 111232 b,35310127,http://www.brooklynintegers.com/
+HD 114762 b,HD 114762 b,35310129,http://www.brooklynintegers.com/
+HD 11977 b,HD 11977 b,35310131,http://www.brooklynintegers.com/
+HD 125595 b,HD 125595 b,35310133,http://www.brooklynintegers.com/
+HD 125612 c,HD 125612 c,35310135,http://www.brooklynintegers.com/
+HD 136418 b,HD 136418 b,35310137,http://www.brooklynintegers.com/
+HD 142 b,HD 142 b,35310139,http://www.brooklynintegers.com/
+HD 142 c,HD 142 c,35310143,http://www.brooklynintegers.com/
+HD 147018 c,HD 147018 c,35310145,http://www.brooklynintegers.com/
+HD 154345 b,HD 154345 b,35310147,http://www.brooklynintegers.com/
+HD 178911 B b,HD 178911 B b,35310149,http://www.brooklynintegers.com/
+HD 179079 b,HD 179079 b,35310151,http://www.brooklynintegers.com/
+HD 204941 b,HD 204941 b,35310153,http://www.brooklynintegers.com/
+HD 20794 d,HD 20794 d,35310155,http://www.brooklynintegers.com/
+HD 210277 b,HD 210277 b,35310157,http://www.brooklynintegers.com/
+HD 218566 b,HD 218566 b,35310161,http://www.brooklynintegers.com/
+HD 222155 b,HD 222155 b,35310163,http://www.brooklynintegers.com/
+HD 22781 b,HD 22781 b,35310165,http://www.brooklynintegers.com/
+HD 240210 b,HD 240210 b,35310167,http://www.brooklynintegers.com/
+HD 24040 b,HD 24040 b,35310169,http://www.brooklynintegers.com/
+HD 27442 b,HD 27442 b,35310171,http://www.brooklynintegers.com/
+HD 27631 b,HD 27631 b,35310173,http://www.brooklynintegers.com/
+HD 27894 b,HD 27894 b,35310175,http://www.brooklynintegers.com/
+HD 30856 b,HD 30856 b,35310179,http://www.brooklynintegers.com/
+HD 33564 b,HD 33564 b,35310181,http://www.brooklynintegers.com/
+HD 38283 b,HD 38283 b,35310183,http://www.brooklynintegers.com/
+HD 39194 c,HD 39194 c,35310185,http://www.brooklynintegers.com/
+HD 4208 b,HD 4208 b,35310187,http://www.brooklynintegers.com/
+HD 4313 b,HD 4313 b,35310189,http://www.brooklynintegers.com/
+HD 50554 b,HD 50554 b,35310191,http://www.brooklynintegers.com/
+HD 75289 b,HD 75289 b,35310193,http://www.brooklynintegers.com/
+HD 7924 b,HD 7924 b,35310197,http://www.brooklynintegers.com/
+HD 81040 b,HD 81040 b,35310199,http://www.brooklynintegers.com/
+HD 81688 b,HD 81688 b,35310201,http://www.brooklynintegers.com/
+HD 82886 b,HD 82886 b,35310203,http://www.brooklynintegers.com/
+HD 82943 b,HD 82943 b,35310205,http://www.brooklynintegers.com/
+HD 82943 c,HD 82943 c,35310207,http://www.brooklynintegers.com/
+HD 85512 b,HD 85512 b,35310209,http://www.brooklynintegers.com/
+HD 86081 b,HD 86081 b,35310211,http://www.brooklynintegers.com/
+HD 86264 b,HD 86264 b,35310215,http://www.brooklynintegers.com/
+HD 87883 b,HD 87883 b,35310217,http://www.brooklynintegers.com/
+HD 88133 b,HD 88133 b,35310219,http://www.brooklynintegers.com/
+HD 93385 c,HD 93385 c,35310221,http://www.brooklynintegers.com/
+HD 9446 b,HD 9446 b,35310223,http://www.brooklynintegers.com/
+HD 95089 b,HD 95089 b,35310225,http://www.brooklynintegers.com/
+HD 96063 b,HD 96063 b,35310227,http://www.brooklynintegers.com/
+HD 96700 c,HD 96700 c,35310229,http://www.brooklynintegers.com/
+HD 98649 b,HD 98649 b,35310233,http://www.brooklynintegers.com/
+HD 99109 b,HD 99109 b,35310235,http://www.brooklynintegers.com/
+HD 99492 b,HD 99492 b,35310237,http://www.brooklynintegers.com/
+HD 99492 c,HD 99492 c,35310239,http://www.brooklynintegers.com/
+HIP 14810 c,HIP 14810 c,35310241,http://www.brooklynintegers.com/
+HIP 5158 c,HIP 5158 c,35310243,http://www.brooklynintegers.com/
+HIP 57274 d,HIP 57274 d,35310245,http://www.brooklynintegers.com/
+HIP 79431 b,HIP 79431 b,35310247,http://www.brooklynintegers.com/
+HR 810 b,HR 810 b,35310251,http://www.brooklynintegers.com/
+kappa CrB b,kappa CrB b,35310253,http://www.brooklynintegers.com/
+Kepler-10 c,Kepler-10 c,35310255,http://www.brooklynintegers.com/
+Kepler-11 d,Kepler-11 d,35310257,http://www.brooklynintegers.com/
+Kepler-11 e,Kepler-11 e,35310259,http://www.brooklynintegers.com/
+Kepler-11 g,Kepler-11 g,35310261,http://www.brooklynintegers.com/
+Kepler-15 b,Kepler-15 b,35310263,http://www.brooklynintegers.com/
+Kepler-17 b,Kepler-17 b,35310265,http://www.brooklynintegers.com/
+Kepler-18 c,Kepler-18 c,35310269,http://www.brooklynintegers.com/
+Kepler-18 d,Kepler-18 d,35310271,http://www.brooklynintegers.com/
+Kepler-20 c,Kepler-20 c,35310273,http://www.brooklynintegers.com/
+Kepler-20 f,Kepler-20 f,35310275,http://www.brooklynintegers.com/
+Kepler-22 b,Kepler-22 b,35310277,http://www.brooklynintegers.com/
+Kepler-25 c,Kepler-25 c,35310279,http://www.brooklynintegers.com/
+Kepler-26 c,Kepler-26 c,35310281,http://www.brooklynintegers.com/
+Kepler-28 b,Kepler-28 b,35310283,http://www.brooklynintegers.com/
+Kepler-31 c,Kepler-31 c,35310287,http://www.brooklynintegers.com/
+Kepler-33 f,Kepler-33 f,35310289,http://www.brooklynintegers.com/
+Kepler-36 b,Kepler-36 b,35310291,http://www.brooklynintegers.com/
+Kepler-38(AB) b,Kepler-38(AB) b,35310293,http://www.brooklynintegers.com/
+Kepler-48 b,Kepler-48 b,35310295,http://www.brooklynintegers.com/
+Kepler-48 c,Kepler-48 c,35310297,http://www.brooklynintegers.com/
+Kepler-49 c,Kepler-49 c,35310299,http://www.brooklynintegers.com/
+Kepler-50 b,Kepler-50 b,35310301,http://www.brooklynintegers.com/
+Kepler-53 b,Kepler-53 b,35310305,http://www.brooklynintegers.com/
+Kepler-55 b,Kepler-55 b,35310307,http://www.brooklynintegers.com/
+Kepler-56 b,Kepler-56 b,35310309,http://www.brooklynintegers.com/
+Kepler-57 c,Kepler-57 c,35310311,http://www.brooklynintegers.com/
+Kepler-60 c,Kepler-60 c,35310313,http://www.brooklynintegers.com/
+Kepler-60 d,Kepler-60 d,35310315,http://www.brooklynintegers.com/
+Kepler-7 b,Kepler-7 b,35310317,http://www.brooklynintegers.com/
+Kepler-9 c,Kepler-9 c,35310319,http://www.brooklynintegers.com/
+KIC 10905746 b,KIC 10905746 b,35310323,http://www.brooklynintegers.com/
+KIC 6185331 b,KIC 6185331 b,35310325,http://www.brooklynintegers.com/
+KOI-13 b,KOI-13 b,35310327,http://www.brooklynintegers.com/
+KOI-135 b,KOI-135 b,35310329,http://www.brooklynintegers.com/
+KOI-204 b,KOI-204 b,35310331,http://www.brooklynintegers.com/
+KOI-254 b,KOI-254 b,35310333,http://www.brooklynintegers.com/
+KOI-423 b,KOI-423 b,35310335,http://www.brooklynintegers.com/
+KOI-55 c,KOI-55 c,35310337,http://www.brooklynintegers.com/
+KOI-680 b,KOI-680 b,35310341,http://www.brooklynintegers.com/
+KOI-872 c,KOI-872 c,35310343,http://www.brooklynintegers.com/
+KOI-961 c,KOI-961 c,35310345,http://www.brooklynintegers.com/
+MOA-2008-BLG-310-L b,MOA-2008-BLG-310-L b,35310347,http://www.brooklynintegers.com/
+MOA-2009-BLG-266L b,MOA-2009-BLG-266L b,35310349,http://www.brooklynintegers.com/
+MOA-2010-BLG-477L b,MOA-2010-BLG-477L b,35310351,http://www.brooklynintegers.com/
+mu Ara c,mu Ara c,35310353,http://www.brooklynintegers.com/
+mu Ara d,mu Ara d,35310355,http://www.brooklynintegers.com/
+NGC 2423 3 b,NGC 2423 3 b,35310359,http://www.brooklynintegers.com/
+NN Ser (ab) d,NN Ser (ab) d,35310361,http://www.brooklynintegers.com/
+nu Oph c,nu Oph c,35310363,http://www.brooklynintegers.com/
+OGLE-05-071L b,OGLE-05-071L b,35310365,http://www.brooklynintegers.com/
+OGLE-06-109L c,OGLE-06-109L c,35310367,http://www.brooklynintegers.com/
+OGLE-2007-BLG-368L b,OGLE-2007-BLG-368L b,35310369,http://www.brooklynintegers.com/
+OGLE-TR-211 b,OGLE-TR-211 b,35310371,http://www.brooklynintegers.com/
+OGLE-TR-56 b,OGLE-TR-56 b,35310373,http://www.brooklynintegers.com/
+OGLE235-MOA53 b,OGLE235-MOA53 b,35310377,http://www.brooklynintegers.com/
+PSR 1257 12 b,PSR 1257 12 b,35310379,http://www.brooklynintegers.com/
+PSR 1257 12 c,PSR 1257 12 c,35310381,http://www.brooklynintegers.com/
+PSR 1257 12 d,PSR 1257 12 d,35310383,http://www.brooklynintegers.com/
+PSR 1719-14 b,PSR 1719-14 b,35310385,http://www.brooklynintegers.com/
+PSR B1620-26 b,PSR B1620-26 b,35310387,http://www.brooklynintegers.com/
+Qatar-1 b,Qatar-1 b,35310389,http://www.brooklynintegers.com/
+RR Cae b,RR Cae b,35310391,http://www.brooklynintegers.com/
+tau Gem b,tau Gem b,35310395,http://www.brooklynintegers.com/
+UScoCTIO 108 b,UScoCTIO 108 b,35310397,http://www.brooklynintegers.com/
+UZ For(ab) d,UZ For(ab) d,35310399,http://www.brooklynintegers.com/
+WASP-1 b,WASP-1 b,35310401,http://www.brooklynintegers.com/
+WASP-11 b,WASP-11 b,35310403,http://www.brooklynintegers.com/
+WASP-13 b,WASP-13 b,35310405,http://www.brooklynintegers.com/
+WASP-15 b,WASP-15 b,35310407,http://www.brooklynintegers.com/
+WASP-18 b,WASP-18 b,35310409,http://www.brooklynintegers.com/
+WASP-21 b,WASP-21 b,35310413,http://www.brooklynintegers.com/
+WASP-22 b,WASP-22 b,35310415,http://www.brooklynintegers.com/
+WASP-24 b,WASP-24 b,35310417,http://www.brooklynintegers.com/
+WASP-35 b,WASP-35 b,35310419,http://www.brooklynintegers.com/
+WASP-37 b,WASP-37 b,35310421,http://www.brooklynintegers.com/
+WASP-41 b,WASP-41 b,35310423,http://www.brooklynintegers.com/
+WASP-46 b,WASP-46 b,35310425,http://www.brooklynintegers.com/
+WASP-50 b,WASP-50 b,35310427,http://www.brooklynintegers.com/
+WASP-53 b,WASP-53 b,35310431,http://www.brooklynintegers.com/
+WASP-57 b,WASP-57 b,35310433,http://www.brooklynintegers.com/
+WASP-62 b,WASP-62 b,35310435,http://www.brooklynintegers.com/
+WASP-63 b,WASP-63 b,35310437,http://www.brooklynintegers.com/
+WASP-64 b,WASP-64 b,35310439,http://www.brooklynintegers.com/
+WASP-65 b,WASP-65 b,35310441,http://www.brooklynintegers.com/
+WASP-66 b,WASP-66 b,35310443,http://www.brooklynintegers.com/
+WASP-69 b,WASP-69 b,35310445,http://www.brooklynintegers.com/
+XO-2 b,XO-2 b,35310449,http://www.brooklynintegers.com/
+XO-4 b,XO-4 b,35310451,http://www.brooklynintegers.com/
+55 Cnc c,55 Cnc c,37155339,http://www.londonintegers.com/
+55 Cnc d,55 Cnc d,37155348,http://www.londonintegers.com/
+7 CMa b,7 CMa b,37155357,http://www.londonintegers.com/
+CFBDS 1458 b,CFBDS 1458 b,37155366,http://www.londonintegers.com/
+CHXR 73 b,CHXR 73 b,37155375,http://www.londonintegers.com/
+CoRoT-17 b,CoRoT-17 b,37155384,http://www.londonintegers.com/
+CoRoT-5 b,CoRoT-5 b,37155393,http://www.londonintegers.com/
+CoRoT-6 b,CoRoT-6 b,37155402,http://www.londonintegers.com/
+eps Tau b,eps Tau b,37155411,http://www.londonintegers.com/
+Gliese 317 c,Gliese 317 c,37155420,http://www.londonintegers.com/
+Gliese 581 d,Gliese 581 d,37155429,http://www.londonintegers.com/
+Gliese 667C c,Gliese 667C c,37155438,http://www.londonintegers.com/
+Gliese 785 b,Gliese 785 b,37155447,http://www.londonintegers.com/
+HAT-P-17 b,HAT-P-17 b,37155456,http://www.londonintegers.com/
+HAT-P-2 b,HAT-P-2 b,37155465,http://www.londonintegers.com/
+HAT-P-32 b,HAT-P-32 b,37155474,http://www.londonintegers.com/
+HAT-P-4 b,HAT-P-4 b,37155483,http://www.londonintegers.com/
+HD 10180 d,HD 10180 d,37155492,http://www.londonintegers.com/
+HD 10180 h,HD 10180 h,37155501,http://www.londonintegers.com/
+HD 101930 b,HD 101930 b,37155510,http://www.londonintegers.com/
+HD 103197 b,HD 103197 b,37155519,http://www.londonintegers.com/
+HD 10647 b,HD 10647 b,37155528,http://www.londonintegers.com/
+HD 10697 b,HD 10697 b,37155537,http://www.londonintegers.com/
+HD 141937 b,HD 141937 b,37155546,http://www.londonintegers.com/
+HD 145377 b,HD 145377 b,37155555,http://www.londonintegers.com/
+HD 149026 b,HD 149026 b,37155564,http://www.londonintegers.com/
+HD 156668 b,HD 156668 b,37155573,http://www.londonintegers.com/
+HD 175167 b,HD 175167 b,37155582,http://www.londonintegers.com/
+HD 176051 b,HD 176051 b,37155591,http://www.londonintegers.com/
+HD 177830 b,HD 177830 b,37155600,http://www.londonintegers.com/
+HD 179949 b,HD 179949 b,37155609,http://www.londonintegers.com/
+HD 183263 b,HD 183263 b,37155618,http://www.londonintegers.com/
+HD 187123 b,HD 187123 b,37155627,http://www.londonintegers.com/
+HD 187123 c,HD 187123 c,37155636,http://www.londonintegers.com/
+HD 192699 b,HD 192699 b,37155645,http://www.londonintegers.com/
+HD 20003 c,HD 20003 c,37155654,http://www.londonintegers.com/
+HD 205739 b,HD 205739 b,37155663,http://www.londonintegers.com/
+HD 20794 c,HD 20794 c,37155672,http://www.londonintegers.com/
+HD 209458 b,HD 209458 b,37155681,http://www.londonintegers.com/
+HD 215497 b,HD 215497 b,37155690,http://www.londonintegers.com/
+HD 21693 c,HD 21693 c,37155699,http://www.londonintegers.com/
+HD 217107 b,HD 217107 b,37155708,http://www.londonintegers.com/
+HD 220689 b,HD 220689 b,37155717,http://www.londonintegers.com/
+HD 23127 b,HD 23127 b,37155726,http://www.londonintegers.com/
+HD 39091 b,HD 39091 b,37155735,http://www.londonintegers.com/
+HD 39194 b,HD 39194 b,37155744,http://www.londonintegers.com/
+HD 43197 b,HD 43197 b,37155753,http://www.londonintegers.com/
+HD 60532 c,HD 60532 c,37155762,http://www.londonintegers.com/
+HD 7449 b,HD 7449 b,37155771,http://www.londonintegers.com/
+HD 79498 b,HD 79498 b,37155780,http://www.londonintegers.com/
+HD 80606 b,HD 80606 b,37155789,http://www.londonintegers.com/
+HD 8535 b,HD 8535 b,37155798,http://www.londonintegers.com/
+HD 9446 c,HD 9446 c,37155807,http://www.londonintegers.com/
+HD 9578 b,HD 9578 b,37155816,http://www.londonintegers.com/
+HD 96700 b,HD 96700 b,37155825,http://www.londonintegers.com/
+HD 97658 b,HD 97658 b,37155834,http://www.londonintegers.com/
+HD 98219 b,HD 98219 b,37155843,http://www.londonintegers.com/
+HIP 11952 b,HIP 11952 b,37155852,http://www.londonintegers.com/
+HIP 11952 c,HIP 11952 c,37155861,http://www.londonintegers.com/
+HIP 13044 b,HIP 13044 b,37155870,http://www.londonintegers.com/
+HIP 14810 b,HIP 14810 b,37155879,http://www.londonintegers.com/
+HIP 14810 d,HIP 14810 d,37155888,http://www.londonintegers.com/
+HIP 5158 b,HIP 5158 b,37155897,http://www.londonintegers.com/
+HIP 57050 b,HIP 57050 b,37155906,http://www.londonintegers.com/
+HIP 57274 b,HIP 57274 b,37155915,http://www.londonintegers.com/
+HIP 57274 c,HIP 57274 c,37155924,http://www.londonintegers.com/
+HIP 78530 b,HIP 78530 b,37155933,http://www.londonintegers.com/
+HN Peg b,HN Peg b,37155942,http://www.londonintegers.com/
+HR 8799 b,HR 8799 b,37155951,http://www.londonintegers.com/
+HR 8799 c,HR 8799 c,37155960,http://www.londonintegers.com/
+HR 8799 d,HR 8799 d,37155969,http://www.londonintegers.com/
+HU Aqr(AB) c,HU Aqr(AB) c,37155978,http://www.londonintegers.com/
+Kepler-10 b,Kepler-10 b,37155987,http://www.londonintegers.com/
+Kepler-11 b,Kepler-11 b,37155996,http://www.londonintegers.com/
+Kepler-11 f,Kepler-11 f,37156005,http://www.londonintegers.com/
+Kepler-14 b,Kepler-14 b,37156014,http://www.londonintegers.com/
+Kepler-16 (AB) b,Kepler-16 (AB) b,37156023,http://www.londonintegers.com/
+Kepler-18 b,Kepler-18 b,37156032,http://www.londonintegers.com/
+Kepler-20 b,Kepler-20 b,37156041,http://www.londonintegers.com/
+Kepler-20 d,Kepler-20 d,37156050,http://www.londonintegers.com/
+Kepler-21 b,Kepler-21 b,37156059,http://www.londonintegers.com/
+Kepler-23 b,Kepler-23 b,37156068,http://www.londonintegers.com/
+Kepler-24 b,Kepler-24 b,37156077,http://www.londonintegers.com/
+Kepler-25 b,Kepler-25 b,37156086,http://www.londonintegers.com/
+Kepler-29 b,Kepler-29 b,37156095,http://www.londonintegers.com/
+Kepler-30 b,Kepler-30 b,37156104,http://www.londonintegers.com/
+Kepler-30 c,Kepler-30 c,37156113,http://www.londonintegers.com/
+Kepler-30 d,Kepler-30 d,37156122,http://www.londonintegers.com/
+Kepler-32 b,Kepler-32 b,37156131,http://www.londonintegers.com/
+Kepler-33 b,Kepler-33 b,37156140,http://www.londonintegers.com/
+Kepler-33 d,Kepler-33 d,37156149,http://www.londonintegers.com/
+Kepler-33 e,Kepler-33 e,37156158,http://www.londonintegers.com/
+Kepler-34(AB) b,Kepler-34(AB) b,37156167,http://www.londonintegers.com/
+Kepler-35(AB) b,Kepler-35(AB) b,37156176,http://www.londonintegers.com/
+Kepler-49 b,Kepler-49 b,37156185,http://www.londonintegers.com/
+Kepler-50 c,Kepler-50 c,37156194,http://www.londonintegers.com/
+Kepler-51 b,Kepler-51 b,37156203,http://www.londonintegers.com/
+Kepler-52 b,Kepler-52 b,37156212,http://www.londonintegers.com/
+Kepler-52 c,Kepler-52 c,37156221,http://www.londonintegers.com/
+Kepler-53 c,Kepler-53 c,37156230,http://www.londonintegers.com/
+Kepler-54 b,Kepler-54 b,37156239,http://www.londonintegers.com/
+Kepler-57 b,Kepler-57 b,37156248,http://www.londonintegers.com/
+Kepler-59 b,Kepler-59 b,37156257,http://www.londonintegers.com/
+Kepler-59 c,Kepler-59 c,37156266,http://www.londonintegers.com/
+Kepler-8 b,Kepler-8 b,37156275,http://www.londonintegers.com/
+Kepler-9 b,Kepler-9 b,37156284,http://www.londonintegers.com/
+Kepler-9 d,Kepler-9 d,37156293,http://www.londonintegers.com/
+KOI-196 b,KOI-196 b,37156302,http://www.londonintegers.com/
+KOI-200 b,KOI-200 b,37156311,http://www.londonintegers.com/
+KOI-202 b,KOI-202 b,37156320,http://www.londonintegers.com/
+KOI-428 b,KOI-428 b,37156329,http://www.londonintegers.com/
+KOI-961 b,KOI-961 b,37156338,http://www.londonintegers.com/
+LKCA 15 b,LKCA 15 b,37156347,http://www.londonintegers.com/
+MOA-2009-BLG-387L b,MOA-2009-BLG-387L b,37156356,http://www.londonintegers.com/
+mu Ara e,mu Ara e,37156365,http://www.londonintegers.com/
+NGC 4349 No 127 b,NGC 4349 No 127 b,37156374,http://www.londonintegers.com/
+NN Ser (ab) c,NN Ser (ab) c,37156383,http://www.londonintegers.com/
+nu Oph b,nu Oph b,37156392,http://www.londonintegers.com/
+NY Vir b,NY Vir b,37156401,http://www.londonintegers.com/
+OGLE-05-169L b,OGLE-05-169L b,37156410,http://www.londonintegers.com/
+OGLE-05-390L b,OGLE-05-390L b,37156419,http://www.londonintegers.com/
+OGLE-06-109L b,OGLE-06-109L b,37156428,http://www.londonintegers.com/
+OGLE-TR-132 b,OGLE-TR-132 b,37156437,http://www.londonintegers.com/
+OGLE-TR-182 b,OGLE-TR-182 b,37156446,http://www.londonintegers.com/
+Oph 11 b,Oph 11 b,37156455,http://www.londonintegers.com/
+Qatar-2 b,Qatar-2 b,37156464,http://www.londonintegers.com/
+Ross 458(AB) c,Ross 458(AB) c,37156473,http://www.londonintegers.com/
+SR 12 AB c,SR 12 AB c,37156482,http://www.londonintegers.com/
+SWEEPS-11,SWEEPS-11,37156491,http://www.londonintegers.com/
+TrES-1,TrES-1,37156500,http://www.londonintegers.com/
+TrES-3,TrES-3,37156509,http://www.londonintegers.com/
+ups And b,ups And b,37156518,http://www.londonintegers.com/
+ups And c,ups And c,37156527,http://www.londonintegers.com/
+ups And e,ups And e,37156536,http://www.londonintegers.com/
+WASP-12 b,WASP-12 b,37156545,http://www.londonintegers.com/
+WASP-19 b,WASP-19 b,37156554,http://www.londonintegers.com/
+WASP-23 b,WASP-23 b,37156563,http://www.londonintegers.com/
+WASP-25 b,WASP-25 b,37156572,http://www.londonintegers.com/
+WASP-26 b,WASP-26 b,37156581,http://www.londonintegers.com/
+WASP-3 b,WASP-3 b,37156590,http://www.londonintegers.com/
+WASP-31 b,WASP-31 b,37156599,http://www.londonintegers.com/
+WASP-32 b,WASP-32 b,37156608,http://www.londonintegers.com/
+WASP-36 b,WASP-36 b,37156617,http://www.londonintegers.com/
+WASP-4 b,WASP-4 b,37156626,http://www.londonintegers.com/
+WASP-48 b,WASP-48 b,37156635,http://www.londonintegers.com/
+WASP-49 b,WASP-49 b,37156644,http://www.londonintegers.com/
+WASP-55 b,WASP-55 b,37156653,http://www.londonintegers.com/
+WASP-56 b,WASP-56 b,37156662,http://www.londonintegers.com/
+WASP-58 b,WASP-58 b,37156671,http://www.londonintegers.com/
+WASP-6 b,WASP-6 b,37156680,http://www.londonintegers.com/
+WASP-61 b,WASP-61 b,37156689,http://www.londonintegers.com/
+WASP-67 b,WASP-67 b,37156698,http://www.londonintegers.com/
+WASP-70 b,WASP-70 b,37156707,http://www.londonintegers.com/
+WASP-79 b,WASP-79 b,37156716,http://www.londonintegers.com/
+WD 0806-661B b,WD 0806-661B b,37156725,http://www.londonintegers.com/
+XO-5 b,XO-5 b,37156734,http://www.londonintegers.com/
