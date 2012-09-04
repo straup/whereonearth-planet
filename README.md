@@ -1,13 +1,18 @@
 whereonearth-planet
 ==
 
-"The universe is full of null islands" – [Michal Migurski](http://mike.teczno.com/)
+"The universe is full of null islands." – [Michal Migurski](http://mike.teczno.com/)
 
 The short version
 --
 
 Where On Earth (WOE) data for planets smushed up the [Open Exoplanet Catalogue](http://exoplanet.hanno-rein.de/) of
 planetary bodies.
+
+New WOE IDs have been minted using one of three artisanal integer providers:
+[Mission Integers](http://www.missionintegers.com/), [Brooklyn
+Integers](http://www.brooklynintegers.com/) and [London
+Integers](http://www.londonintegers.com/).
 
 The longer version
 --
@@ -26,6 +31,19 @@ To do
 
 * Figure out how calculate geometries and/or an interplanetary spatial
   referencing system for these records. I could use some help with this.
+
+Other WOE repositories
+--
+
+* [whereonearth-country](https://github.com/straup/whereonearth-country)
+
+* [whereonearth-timezone](https://github.com/straup/whereonearth-timezone)
+
+* [whereonearth-state](https://github.com/straup/whereonearth-state)
+
+* [whereonearth-airport](https://github.com/straup/whereonearth-airport)
+
+* [whereonearth-building](https://github.com/straup/whereonearth-building)
 
 See also
 --
