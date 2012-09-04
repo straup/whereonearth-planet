@@ -1,7 +1,7 @@
 whereonearth-planet
 ==
 
-"The universe is full of null islands." – [Michal Migurski](http://mike.teczno.com/)
+"The Universe is full of null islands." – [Michal Migurski](http://mike.teczno.com/)
 
 The short version
 --
@@ -11,7 +11,7 @@ planetary bodies.
 
 New WOE IDs have been minted using one of three artisanal integer providers:
 [Mission Integers](http://www.missionintegers.com/), [Brooklyn
-Integers](http://www.brooklynintegers.com/) and [London
+Integers](http://www.brooklynintegers.com/) or [London
 Integers](http://www.londonintegers.com/).
 
 The longer version
