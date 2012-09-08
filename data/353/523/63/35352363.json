@@ -1,0 +1,55 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35352363, 
+      "properties": {
+        "oep-star:magV": "4.14", 
+        "oep:new": "1", 
+        "oep:id_exoplaneteu": "eps Corona Borealis", 
+        "oep-star:rightascension": "15 57 35", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+26 52 40", 
+        "oep-star:spectraltype": "K2 III", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/09/08", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "21", 
+        "oep:description": "Radial velocity measurements for eps CrB exhibit periodic variation of 417 days with an amplitude of 129 meter per second. The minimum mass for the planetary companion is 6.7 Jupiter masses. ", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35352363, 
+        "woe:id": 35352363, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "67.9", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep-star:temperature": "4406", 
+        "oep:mass": "6.7", 
+        "oep:id": "eps Corona Borealis b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "417.9", 
+        "oep-orbit:eccentricity": "0.11", 
+        "oep-star:mass": "1.7", 
+        "oep-orbit:semimajoraxis": "1.3", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": "-0.094", 
+        "oep:name": [
+          "eps Corona Borealis b", 
+          "HD 143107 b", 
+          "HR 5947 b", 
+          "HIP 78159 b"
+        ]
+      }
+    }
+  ]
+}

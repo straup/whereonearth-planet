@@ -104,8 +104,9 @@ def import_planets(options):
                     props[k] = old_props[k]
 
             else:
+
                 woeid, foundry = get_artisanal_int()
-                
+
                 props['woe:id'] =  woeid
                 props['placetype'] = 'planet'
                 props['artisanal:id'] = woeid

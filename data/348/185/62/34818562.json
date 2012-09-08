@@ -37,7 +37,7 @@
         "oep-star:magH": null, 
         "oep-star:distance": "25.2", 
         "oep:list": "Confirmed planets", 
-        "oep:discoverymethod": "Transit", 
+        "oep:discoverymethod": "transit", 
         "oep:mass": "0.04403980", 
         "oep:id": "Gliese 3470 b", 
         "oep:radius": "0.38274724", 
