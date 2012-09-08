@@ -30,7 +30,7 @@ To do
 --
 
 * Figure out how calculate geometries and/or an interplanetary spatial
-  referencing system for these records. I could use some help with this.
+  referencing system for these records. [I could use some help with this.](http://en.wikipedia.org/wiki/Reference_ellipsoid#Ellipsoids_for_other_planetary_bodies)
 
 Other WOE repositories
 --
