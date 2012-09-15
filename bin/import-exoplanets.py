@@ -174,13 +174,13 @@ if __name__ == '__main__':
                         help='',
                         action='store')
 
-    parser.add_option('--debug', dest='debug',
-                        help='Enable debug logging',
+    parser.add_option('--verbose', dest='verbose',
+                        help='Enable verbose logging',
                         action='store_true', default=False)
 
     options, args = parser.parse_args()
 
-    if options.debug:
+    if options.verbose:
         logging.basicConfig(level=logging.DEBUG)
     else:
         logging.basicConfig(level=logging.INFO)

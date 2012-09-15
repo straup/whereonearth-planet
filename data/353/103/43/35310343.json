@@ -42,7 +42,11 @@
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "oep-star:angulardistance": "0.000327", 
         "oep-star:metallicity": "0.41", 
-        "oep:name": "KOI-872 c"
+        "oep:name": [
+          "KOI-872 c", 
+          "Kepler-46 c", 
+          "KIC 7109675 c"
+        ]
       }
     }
   ]

@@ -42,7 +42,11 @@
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "oep-star:angulardistance": "0.00023", 
         "oep-star:metallicity": "0.41", 
-        "oep:name": "KOI-872 b"
+        "oep:name": [
+          "KOI-872 b", 
+          "Kepler-46 b", 
+          "KIC 7109675 c"
+        ]
       }
     }
   ]

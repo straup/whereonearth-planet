@@ -1,0 +1,54 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35353067, 
+      "properties": {
+        "oep-star:magV": null, 
+        "oep:new": "1", 
+        "oep:id_exoplaneteu": "Pr0201 b", 
+        "oep-star:rightascension": "8 41 43", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": "Artist's impression of a planet in the Beehive cluster.Image credit: NASA/JPL-Caltech", 
+        "oep-star:declination": "20 13 36", 
+        "oep-star:spectraltype": "F7.5", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/09/14", 
+        "oep:image": "beehive", 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "1.167", 
+        "oep:description": "This planets is a so-called Hot Jupiters which orbits tightly around its parent stars in the Beehive Cluster, a collection of roughly 1,000 stars that appear to be swarming around a common center. The planet is not habitable but its sky would be starrier than what we see from Earth.", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35353067, 
+        "woe:id": 35353067, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "177", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep-star:temperature": "6174", 
+        "oep:mass": "0.54", 
+        "oep:id": "Pr0201 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "4.4264", 
+        "oep-orbit:eccentricity": "0", 
+        "oep-star:mass": "1.234", 
+        "oep-orbit:semimajoraxis": null, 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": "0.187", 
+        "oep:name": [
+          "Pr0201 b", 
+          "BD+20 2184", 
+          "2MASS J08414382+2013368"
+        ]
+      }
+    }
+  ]
+}

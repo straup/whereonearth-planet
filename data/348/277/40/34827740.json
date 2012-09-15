@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34827740, 
+      "properties": {
+        "oep-star:magV": "9.36", 
+        "oep:new": "0", 
+        "oep:id_exoplaneteu": "BD+20 274 b", 
+        "oep-star:rightascension": "01 43 40", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "+21 00 19", 
+        "oep-star:spectraltype": "K5 III", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/09/13", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "17.3", 
+        "oep:description": "This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. Most likely, there is a nother low-mass stellar companion in the system.", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34827740, 
+        "woe:id": 34827740, 
+        "oep-star:magH": null, 
+        "oep-star:distance": null, 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep:mass": "4.2", 
+        "oep:id": "BD+20 274 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "578.2", 
+        "oep-orbit:eccentricity": "0.21", 
+        "oep-star:mass": "0.8", 
+        "oep-orbit:semimajoraxis": "1.3", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": "-0.46", 
+        "oep:name": "BD+20 274 b"
+      }
+    }
+  ]
+}
