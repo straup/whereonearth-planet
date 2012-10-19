@@ -1,0 +1,53 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34833956, 
+      "properties": {
+        "oep-star:magV": "10.88", 
+        "oep:new": "2", 
+        "oep:id_exoplaneteu": "WASP-72 b", 
+        "oep-star:rightascension": "02 44 09", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-30 10 08", 
+        "oep-star:spectraltype": "F7", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/10/17", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": "86.8", 
+        "oep-star:radius": "1.37", 
+        "oep:description": "Despite its extreme irradiation, this planet has a size consistant with that of Jupiter. That makes it a possible outlier among the Hot Jupiters of similar masses, suggesting a significant enrichment in heavy elements.", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 34833956, 
+        "woe:id": 34833956, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "250", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "transit", 
+        "oep-star:temperature": "6250", 
+        "oep:mass": "1.410", 
+        "oep:id": "WASP-72 b", 
+        "oep:radius": "1.01", 
+        "oep-orbit:period": "2.21672", 
+        "oep-orbit:eccentricity": "0", 
+        "oep-star:mass": "1.23", 
+        "oep-orbit:semimajoraxis": "0.03655", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": "-0.06", 
+        "oep:name": [
+          "WASP-72 b", 
+          "1SWASPJ024409.60-301008.5 b"
+        ]
+      }
+    }
+  ]
+}

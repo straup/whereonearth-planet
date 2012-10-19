@@ -1,0 +1,48 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35457911, 
+      "properties": {
+        "oep-star:magV": null, 
+        "oep:new": "1", 
+        "oep:id_exoplaneteu": "OGLE-2012-BLG-0026L c", 
+        "oep-star:rightascension": "17 34 18", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-27 08 33", 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/10/17", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": null, 
+        "oep:description": "This multi-planetary system was discovered during a high-magnification gravitational microlensing event. Both planets are located beyond the snow-line, an important clue for planet formation models.", 
+        "oep:multiplicity": "2", 
+        "artisanal:id": 35457911, 
+        "woe:id": 35457911, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "4080", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "microlensing", 
+        "oep:mass": "0.68", 
+        "oep:id": "OGLE-2012-BLG-0026L c", 
+        "oep:radius": null, 
+        "oep-orbit:period": null, 
+        "oep-orbit:eccentricity": null, 
+        "oep-star:mass": "0.82", 
+        "oep-orbit:semimajoraxis": "4.63", 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:metallicity": null, 
+        "oep:name": "OGLE-2012-BLG-0026L c"
+      }
+    }
+  ]
+}

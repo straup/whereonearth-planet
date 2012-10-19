@@ -42,7 +42,13 @@
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "oep-star:angulardistance": null, 
         "oep-star:metallicity": "-0.46", 
-        "oep:name": "HD 219415 b"
+        "oep:name": [
+          "HD 219415 b", 
+          "GSC 4006-62 b", 
+          "SAO 35261 b", 
+          "2MASS J23145382+5643491 b", 
+          "TYC 4006-629-1 b"
+        ]
       }
     }
   ]

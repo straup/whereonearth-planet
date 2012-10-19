@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 37200150, 
+      "properties": {
+        "oep-star:magV": null, 
+        "oep:new": "1", 
+        "oep:id_exoplaneteu": "Alpha Centauri B b", 
+        "oep-star:rightascension": "14 39 35", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": "This artist's impression shows the planet orbiting the star Alpha Centauri B, a member of the triple star system that is the closest to Earth. Alpha Centauri B is the most brilliant object in the sky and the other dazzling object is Alpha Centauri A. Our own Sun is visible to the upper right. The tiny signal of the planet was found with the HARPS spectrograph on the 3.6-metre telescope at ESO's La Silla Observatory in Chile.\tCredit:\tESO/L. Calcada", 
+        "oep-star:declination": "-60 50 14", 
+        "oep-star:spectraltype": "K1 V`", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/10/16", 
+        "oep:image": "AlphaCentauriB", 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "0.865", 
+        "oep:description": "Alpha Centauri is one of the brightest stars in the southern sky (in fact, it is a triple system). European astronomers have discovered a planet with about the mass of the Earth orbiting Alpha Centauri B. It is the nearest exoplanet to Earth and also the lightest exoplanet ever discovered around a Sun-like star. The planet was detected using the HARPS instrument on the 3.6-metre telescope at ESO's La Silla Observatory in Chile.", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 37200150, 
+        "woe:id": 37200150, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "1.339", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep-star:temperature": "5260", 
+        "oep:mass": "0.0035546417", 
+        "oep:id": "Alpha Centauri B b", 
+        "oep:radius": null, 
+        "oep-orbit:period": "3.235", 
+        "oep-orbit:eccentricity": null, 
+        "oep-star:mass": "0.907", 
+        "oep-orbit:semimajoraxis": "0.04", 
+        "artisanal:foundry": "http://www.londonintegers.com/", 
+        "oep-star:angulardistance": "0.044323", 
+        "oep:name": "Alpha Centauri B b"
+      }
+    }
+  ]
+}

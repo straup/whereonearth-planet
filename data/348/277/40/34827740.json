@@ -24,7 +24,7 @@
         "oep:discoveryyear": "2012", 
         "oep-orbit:inclination": null, 
         "oep-star:radius": "17.3", 
-        "oep:description": "This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. Most likely, there is a nother low-mass stellar companion in the system.", 
+        "oep:description": "This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. Most likely, there is another low-mass stellar companion in the system.", 
         "oep:multiplicity": "1", 
         "artisanal:id": 34827740, 
         "woe:id": 34827740, 
@@ -42,7 +42,13 @@
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "oep-star:angulardistance": null, 
         "oep-star:metallicity": "-0.46", 
-        "oep:name": "BD+20 274 b"
+        "oep:name": [
+          "BD+20 274 b", 
+          "2MASS J01434087+2100191 b", 
+          "TYC 1211-603-1 b", 
+          "GSC 1211-603 b", 
+          "SAO 74893 b"
+        ]
       }
     }
   ]
