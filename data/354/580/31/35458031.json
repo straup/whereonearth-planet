@@ -1,0 +1,50 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 35458031, 
+      "properties": {
+        "oep-star:magV": null, 
+        "oep:new": "1", 
+        "oep:id_exoplaneteu": "MOA-2010-BLG-311 b", 
+        "oep-star:rightascension": "18 08 50", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-25 57 04", 
+        "oep-star:spectraltype": null, 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/10/24", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": null, 
+        "oep:description": "This object was observed in a gravitational mirolensing event. A good mass estimate could not be obtained although the object is most likely of planetary nature. Unfortunately microlensing events are not repeatable and the planet is therefore marked as controversial.", 
+        "oep:multiplicity": "1", 
+        "artisanal:id": 35458031, 
+        "woe:id": 35458031, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "6000", 
+        "oep:list": "Controversial", 
+        "oep:discoverymethod": "microlensing", 
+        "oep-star:temperature": "5460", 
+        "oep:mass": "0.208", 
+        "oep:id": "MOA-2010-BLG-311 b", 
+        "oep:radius": null, 
+        "oep-orbit:period": null, 
+        "oep-orbit:eccentricity": null, 
+        "oep-star:mass": null, 
+        "oep-orbit:semimajoraxis": null, 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": null, 
+        "oep:name": "MOA-2010-BLG-311 b"
+      }
+    }
+  ]
+}

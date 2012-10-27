@@ -1,0 +1,54 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": []
+  }, 
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "id": 34833990, 
+      "properties": {
+        "oep-star:magV": "2.04", 
+        "oep:new": "1", 
+        "oep:id_exoplaneteu": "HD 4732 c", 
+        "oep-star:rightascension": "00 49 13", 
+        "oep-star:magK": null, 
+        "placetype": "planet", 
+        "oep:imagedescription": null, 
+        "oep-star:declination": "-24 08 12", 
+        "oep-star:spectraltype": "K0 IV", 
+        "oep-star:magJ": null, 
+        "oep-star:magI": null, 
+        "oep:lastupdate": "12/10/26", 
+        "oep:image": null, 
+        "oep:discoveryyear": "2012", 
+        "oep-orbit:inclination": null, 
+        "oep-star:radius": "5.4", 
+        "oep:description": "The planets in this double planetary system are orbiting an evolved intermediate-mass star. The observations were made at the Okayama Astrophysical Observatory and the Anglo-Australian Observatory.", 
+        "oep:multiplicity": "2", 
+        "artisanal:id": 34833990, 
+        "woe:id": 34833990, 
+        "oep-star:magH": null, 
+        "oep-star:distance": "56.5", 
+        "oep:list": "Confirmed planets", 
+        "oep:discoverymethod": "RV", 
+        "oep-star:temperature": "4959", 
+        "oep:mass": "2.37", 
+        "oep:id": "HD 4732 c", 
+        "oep:radius": null, 
+        "oep-orbit:period": "2732", 
+        "oep-orbit:eccentricity": "0.23", 
+        "oep-star:mass": "1.74", 
+        "oep-orbit:semimajoraxis": "4.60", 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "oep-star:angulardistance": null, 
+        "oep-star:metallicity": "0.01", 
+        "oep:name": [
+          "HD 4732 c", 
+          "HR 228 c", 
+          "HIP 3834 c"
+        ]
+      }
+    }
+  ]
+}
